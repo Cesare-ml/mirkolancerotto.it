@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="1" y2="0">
+      <stop offset="0%" stop-color="#1c2530"/>
+      <stop offset="100%" stop-color="#af9380"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect x="170" y="180" width="860" height="1120" rx="80" fill="#f4efe8" fill-opacity="0.12" stroke="#efe3d4" stroke-opacity="0.4"/>
+  <path d="M220 1010c120-260 290-410 520-470 120-30 220-26 330-8" fill="none" stroke="#efe3d4" stroke-width="16" stroke-opacity="0.85"/>
+  <text x="90" y="1350" fill="#f6eadb" font-family="Georgia, serif" font-size="72">Mock Artwork II</text>
+</svg>

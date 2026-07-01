@@ -1,0 +1,38 @@
+{
+  "artistName": "Mirko Lancerotto",
+  "defaultLanguage": "it",
+  "domain": "https://mirkolancerotto.it",
+  "claim": {
+    "it": "La pittura come via interiore",
+    "en": "Painting as a spiritual path"
+  },
+  "email": "info@mirkolancerotto.it",
+  "social": {
+    "instagram": "https://instagram.com/mirkolancerotto",
+    "tiktok": "https://tiktok.com/@mirkolancerotto",
+    "youtube": "https://youtube.com/@mirkolancerotto"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-ARTIST0001",
+    "enabled": false
+  },
+  "mailchimp": {
+    "enabled": true,
+    "formActionUrl": "https://example.list-manage.com/subscribe/post?u=artist&id=website-newsletter",
+    "audienceId": "website-newsletter",
+    "tags": [
+      "website-newsletter"
+    ]
+  },
+  "seo": {
+    "defaultTitle": {
+      "it": "Mirko Lancerotto | Opere originali",
+      "en": "Mirko Lancerotto | Original Artworks"
+    },
+    "defaultDescription": {
+      "it": "Dipinti, disegni e opere su commissione di Mirko Lancerotto.",
+      "en": "Original paintings, drawings and commissioned artworks by Mirko Lancerotto."
+    },
+    "defaultOgImage": "/assets/images/static/og-image.svg"
+  }
+}

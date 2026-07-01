@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7c916d"/>
+      <stop offset="100%" stop-color="#d8c19e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#bg)"/>
+  <circle cx="500" cy="500" r="240" fill="#fbf1df" fill-opacity="0.65"/>
+  <text x="120" y="900" fill="#233026" font-family="Georgia, serif" font-size="60">Detail Mock</text>
+</svg>

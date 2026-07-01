@@ -1,0 +1,25 @@
+{
+  "home": {
+    "heroArtworkId": 1,
+    "featuredArtworkIds": [
+      1,
+      2,
+      3
+    ],
+    "featuredDrawingIds": [
+      9,
+      10
+    ],
+    "showCommissions": true,
+    "showNewsletter": true
+  },
+  "about": {
+    "heroImage": "/assets/images/static/about-hero.svg"
+  },
+  "commissions": {
+    "heroImage": "/assets/images/static/commissions-hero.svg"
+  },
+  "contacts": {
+    "showNewsletter": true
+  }
+}

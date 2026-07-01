@@ -1,0 +1,14 @@
+{
+  "heroArtworkId": 1,
+  "featuredArtworkIds": [
+    1,
+    2,
+    3
+  ],
+  "featuredDrawingIds": [
+    9,
+    10
+  ],
+  "showCommissions": true,
+  "showNewsletter": true
+}

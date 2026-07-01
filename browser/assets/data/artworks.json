@@ -1,0 +1,5834 @@
+[
+  {
+    "id": 70,
+    "slug": "guru-guru-guru",
+    "type": "painting",
+    "status": "not_available",
+    "title": {
+      "it": "Guru, Guru, Guru!",
+      "en": "Guru, Guru, Guru!"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2023,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 79,
+      "heightCm": 49,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Guru, Guru, Guru! di Mirko Lancerotto",
+          "en": "Guru, Guru, Guru! by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/70/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/70/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/70/main-small.jpg",
+          "medium": "/assets/images/artworks/70/main-medium.jpg",
+          "large": "/assets/images/artworks/70/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Guru, Guru, Guru! | Mirko Lancerotto",
+        "en": "Guru, Guru, Guru! | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2023.",
+        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2023."
+      }
+    }
+  },
+  {
+    "id": 72,
+    "slug": "carolina",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Carolina",
+      "en": "Carolina"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Acrilico",
+      "en": "Acrilico"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 42,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Carolina di Mirko Lancerotto",
+          "en": "Carolina by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/72/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/72/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/72/main-small.jpg",
+          "medium": "/assets/images/artworks/72/main-medium.jpg",
+          "large": "/assets/images/artworks/72/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Carolina | Mirko Lancerotto",
+        "en": "Carolina | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Acrilico, 2022.",
+        "en": "Private collection artwork by Mirko Lancerotto, Acrilico, 2022."
+      }
+    }
+  },
+  {
+    "id": 71,
+    "slug": "la-culla-di-atena",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "La culla di Atena",
+      "en": "La culla di Atena"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 35,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La culla di Atena di Mirko Lancerotto",
+          "en": "La culla di Atena by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/71/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/71/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/71/main-small.jpg",
+          "medium": "/assets/images/artworks/71/main-medium.jpg",
+          "large": "/assets/images/artworks/71/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La culla di Atena | Mirko Lancerotto",
+        "en": "La culla di Atena | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 68,
+    "slug": "cavallo",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Cavallo",
+      "en": "Cavallo"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Legno",
+      "en": "Legno"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 54,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Cavallo di Mirko Lancerotto",
+          "en": "Cavallo by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/68/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/68/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/68/main-small.jpg",
+          "medium": "/assets/images/artworks/68/main-medium.jpg",
+          "large": "/assets/images/artworks/68/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Cavallo | Mirko Lancerotto",
+        "en": "Cavallo | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 67,
+    "slug": "elefanti",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Elefanti",
+      "en": "Elefanti"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Legno",
+      "en": "Legno"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 60,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Elefanti di Mirko Lancerotto",
+          "en": "Elefanti by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/67/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/67/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/67/main-small.jpg",
+          "medium": "/assets/images/artworks/67/main-medium.jpg",
+          "large": "/assets/images/artworks/67/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Elefanti | Mirko Lancerotto",
+        "en": "Elefanti | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 66,
+    "slug": "cervo",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Cervo",
+      "en": "Cervo"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Legno",
+      "en": "Legno"
+    },
+    "dimensions": {
+      "widthCm": 35,
+      "heightCm": 52,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Cervo di Mirko Lancerotto",
+          "en": "Cervo by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/66/main-original.png",
+          "thumbnail": "/assets/images/artworks/66/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/66/main-small.jpg",
+          "medium": "/assets/images/artworks/66/main-medium.jpg",
+          "large": "/assets/images/artworks/66/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Cervo | Mirko Lancerotto",
+        "en": "Cervo | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 65,
+    "slug": "buddha",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Buddha",
+      "en": "Buddha"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Legno",
+      "en": "Legno"
+    },
+    "dimensions": {
+      "widthCm": 36,
+      "heightCm": 52,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Buddha di Mirko Lancerotto",
+          "en": "Buddha by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/65/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/65/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/65/main-small.jpg",
+          "medium": "/assets/images/artworks/65/main-medium.jpg",
+          "large": "/assets/images/artworks/65/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Buddha | Mirko Lancerotto",
+        "en": "Buddha | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 64,
+    "slug": "il-trionfo-di-vega",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Il Trionfo di Vega",
+      "en": "Il Trionfo di Vega"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Acrilico",
+      "en": "Acrilico"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 35,
+      "heightCm": 25,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Il Trionfo di Vega di Mirko Lancerotto",
+          "en": "Il Trionfo di Vega by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/64/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/64/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/64/main-small.jpg",
+          "medium": "/assets/images/artworks/64/main-medium.jpg",
+          "large": "/assets/images/artworks/64/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Il Trionfo di Vega | Mirko Lancerotto",
+        "en": "Il Trionfo di Vega | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Acrilico, 2022.",
+        "en": "Private collection artwork by Mirko Lancerotto, Acrilico, 2022."
+      }
+    }
+  },
+  {
+    "id": 63,
+    "slug": "saluto-al-sole",
+    "type": "painting",
+    "status": "not_available",
+    "title": {
+      "it": "Saluto al Sole",
+      "en": "Saluto al Sole"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 32,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Saluto al Sole di Mirko Lancerotto",
+          "en": "Saluto al Sole by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/63/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/63/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/63/main-small.jpg",
+          "medium": "/assets/images/artworks/63/main-medium.jpg",
+          "large": "/assets/images/artworks/63/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Saluto al Sole | Mirko Lancerotto",
+        "en": "Saluto al Sole | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 41,
+    "slug": "sole-in-casa",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Sole in casa",
+      "en": "Sole in casa"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 54,
+      "heightCm": 54,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Sole in casa di Mirko Lancerotto",
+          "en": "Sole in casa by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/41/main-original.png",
+          "thumbnail": "/assets/images/artworks/41/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/41/main-small.jpg",
+          "medium": "/assets/images/artworks/41/main-medium.jpg",
+          "large": "/assets/images/artworks/41/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Sole in casa | Mirko Lancerotto",
+        "en": "Sole in casa | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 39,
+    "slug": "fiore-della-vita",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Fiore della vita",
+      "en": "Fiore della vita"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 71,
+      "heightCm": 45,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Fiore della vita di Mirko Lancerotto",
+          "en": "Fiore della vita by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/39/main-original.png",
+          "thumbnail": "/assets/images/artworks/39/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/39/main-small.jpg",
+          "medium": "/assets/images/artworks/39/main-medium.jpg",
+          "large": "/assets/images/artworks/39/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Fiore della vita | Mirko Lancerotto",
+        "en": "Fiore della vita | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 37,
+    "slug": "ancella-della-luna",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Ancella della Luna",
+      "en": "Ancella della Luna"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 65,
+      "heightCm": 50,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Ancella della Luna di Mirko Lancerotto",
+          "en": "Ancella della Luna by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/37/main-original.png",
+          "thumbnail": "/assets/images/artworks/37/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/37/main-small.jpg",
+          "medium": "/assets/images/artworks/37/main-medium.jpg",
+          "large": "/assets/images/artworks/37/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Ancella della Luna | Mirko Lancerotto",
+        "en": "Ancella della Luna | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 35,
+    "slug": "fomentando-il-cammino-iniziatico",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Fomentando il Cammino Iniziatico",
+      "en": "Fomentando il Cammino Iniziatico"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 66,
+      "heightCm": 48,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Fomentando il Cammino Iniziatico di Mirko Lancerotto",
+          "en": "Fomentando il Cammino Iniziatico by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/35/main-original.png",
+          "thumbnail": "/assets/images/artworks/35/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/35/main-small.jpg",
+          "medium": "/assets/images/artworks/35/main-medium.jpg",
+          "large": "/assets/images/artworks/35/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Fomentando il Cammino Iniziatico | Mirko Lancerotto",
+        "en": "Fomentando il Cammino Iniziatico | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 29,
+    "slug": "il-bosco-dei-druidi",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Il Bosco dei Druidi",
+      "en": "Il Bosco dei Druidi"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista",
+      "en": "Tecnica mista"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 55,
+      "heightCm": 39,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Il Bosco dei Druidi di Mirko Lancerotto",
+          "en": "Il Bosco dei Druidi by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/29/main-original.png",
+          "thumbnail": "/assets/images/artworks/29/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/29/main-small.jpg",
+          "medium": "/assets/images/artworks/29/main-medium.jpg",
+          "large": "/assets/images/artworks/29/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Il Bosco dei Druidi | Mirko Lancerotto",
+        "en": "Il Bosco dei Druidi | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista, 2022."
+      }
+    }
+  },
+  {
+    "id": 27,
+    "slug": "rincorsa-al-fuoco",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Rincorsa al Fuoco",
+      "en": "Rincorsa al Fuoco"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2022,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 105,
+      "heightCm": 75,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Rincorsa al Fuoco di Mirko Lancerotto",
+          "en": "Rincorsa al Fuoco by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/27/main-original.png",
+          "thumbnail": "/assets/images/artworks/27/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/27/main-small.jpg",
+          "medium": "/assets/images/artworks/27/main-medium.jpg",
+          "large": "/assets/images/artworks/27/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Rincorsa al Fuoco | Mirko Lancerotto",
+        "en": "Rincorsa al Fuoco | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+      }
+    }
+  },
+  {
+    "id": 81,
+    "slug": "2-marilu",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "2 - Marilù",
+      "en": "2 - Marilù"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 25,
+      "heightCm": 21,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "2 - Marilù di Mirko Lancerotto",
+          "en": "2 - Marilù by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/81/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/81/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/81/main-small.jpg",
+          "medium": "/assets/images/artworks/81/main-medium.jpg",
+          "large": "/assets/images/artworks/81/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "2 - Marilù | Mirko Lancerotto",
+        "en": "2 - Marilù | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 80,
+    "slug": "marilu",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Marilù",
+      "en": "Marilù"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 25,
+      "heightCm": 21,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Marilù di Mirko Lancerotto",
+          "en": "Marilù by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/80/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/80/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/80/main-small.jpg",
+          "medium": "/assets/images/artworks/80/main-medium.jpg",
+          "large": "/assets/images/artworks/80/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Marilù | Mirko Lancerotto",
+        "en": "Marilù | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 79,
+    "slug": "autunno",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Autunno",
+      "en": "Autunno"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 25,
+      "heightCm": 21,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Autunno di Mirko Lancerotto",
+          "en": "Autunno by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/79/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/79/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/79/main-small.jpg",
+          "medium": "/assets/images/artworks/79/main-medium.jpg",
+          "large": "/assets/images/artworks/79/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Autunno | Mirko Lancerotto",
+        "en": "Autunno | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 78,
+    "slug": "architetture-di-fuoco",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Architetture di fuoco",
+      "en": "Architetture di fuoco"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 21,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Architetture di fuoco di Mirko Lancerotto",
+          "en": "Architetture di fuoco by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/78/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/78/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/78/main-small.jpg",
+          "medium": "/assets/images/artworks/78/main-medium.jpg",
+          "large": "/assets/images/artworks/78/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Architetture di fuoco | Mirko Lancerotto",
+        "en": "Architetture di fuoco | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2021."
+      }
+    }
+  },
+  {
+    "id": 77,
+    "slug": "fuoco-nella-notte",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Fuoco nella notte",
+      "en": "Fuoco nella notte"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Acquerello e inchistri",
+      "en": "Acquerello e inchistri"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 21,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Fuoco nella notte di Mirko Lancerotto",
+          "en": "Fuoco nella notte by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/77/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/77/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/77/main-small.jpg",
+          "medium": "/assets/images/artworks/77/main-medium.jpg",
+          "large": "/assets/images/artworks/77/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Fuoco nella notte | Mirko Lancerotto",
+        "en": "Fuoco nella notte | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello e inchistri, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello e inchistri, 2021."
+      }
+    }
+  },
+  {
+    "id": 76,
+    "slug": "entita-spirituale",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Entita' spirituale",
+      "en": "Entita' spirituale"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 21,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Entita' spirituale di Mirko Lancerotto",
+          "en": "Entita' spirituale by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/76/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/76/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/76/main-small.jpg",
+          "medium": "/assets/images/artworks/76/main-medium.jpg",
+          "large": "/assets/images/artworks/76/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Entita' spirituale | Mirko Lancerotto",
+        "en": "Entita' spirituale | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2021."
+      }
+    }
+  },
+  {
+    "id": 69,
+    "slug": "pensieri-di-fuoco",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Pensieri di fuoco",
+      "en": "Pensieri di fuoco"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 58,
+      "heightCm": 43,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Pensieri di fuoco di Mirko Lancerotto",
+          "en": "Pensieri di fuoco by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/69/main-original.png",
+          "thumbnail": "/assets/images/artworks/69/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/69/main-small.jpg",
+          "medium": "/assets/images/artworks/69/main-medium.jpg",
+          "large": "/assets/images/artworks/69/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Pensieri di fuoco | Mirko Lancerotto",
+        "en": "Pensieri di fuoco | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 54,
+    "slug": "montagne-astrali",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Montagne Astrali",
+      "en": "Montagne Astrali"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 120,
+      "heightCm": 64,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Montagne Astrali di Mirko Lancerotto",
+          "en": "Montagne Astrali by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/54/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/54/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/54/main-small.jpg",
+          "medium": "/assets/images/artworks/54/main-medium.jpg",
+          "large": "/assets/images/artworks/54/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Montagne Astrali | Mirko Lancerotto",
+        "en": "Montagne Astrali | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 50,
+    "slug": "angeli",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Angeli",
+      "en": "Angeli"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 110,
+      "heightCm": 80,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Angeli di Mirko Lancerotto",
+          "en": "Angeli by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/50/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/50/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/50/main-small.jpg",
+          "medium": "/assets/images/artworks/50/main-medium.jpg",
+          "large": "/assets/images/artworks/50/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Angeli | Mirko Lancerotto",
+        "en": "Angeli | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 48,
+    "slug": "amore-non-corrisposto",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Amore non corrisposto",
+      "en": "Amore non corrisposto"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 47,
+      "heightCm": 80,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Amore non corrisposto di Mirko Lancerotto",
+          "en": "Amore non corrisposto by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/48/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/48/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/48/main-small.jpg",
+          "medium": "/assets/images/artworks/48/main-medium.jpg",
+          "large": "/assets/images/artworks/48/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Amore non corrisposto | Mirko Lancerotto",
+        "en": "Amore non corrisposto | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 47,
+    "slug": "autoritratto",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Autoritratto",
+      "en": "Autoritratto"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 24,
+      "heightCm": 18,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Autoritratto di Mirko Lancerotto",
+          "en": "Autoritratto by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/47/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/47/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/47/main-small.jpg",
+          "medium": "/assets/images/artworks/47/main-medium.jpg",
+          "large": "/assets/images/artworks/47/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Autoritratto | Mirko Lancerotto",
+        "en": "Autoritratto | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 44,
+    "slug": "il-sonno-ristoratore",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Il Sonno Ristoratore",
+      "en": "Il Sonno Ristoratore"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 35,
+      "heightCm": 25,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Il Sonno Ristoratore di Mirko Lancerotto",
+          "en": "Il Sonno Ristoratore by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/44/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/44/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/44/main-small.jpg",
+          "medium": "/assets/images/artworks/44/main-medium.jpg",
+          "large": "/assets/images/artworks/44/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Il Sonno Ristoratore | Mirko Lancerotto",
+        "en": "Il Sonno Ristoratore | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 43,
+    "slug": "l-amore-che-riscalda",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "L'Amore che Riscalda",
+      "en": "L'Amore che Riscalda"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 24,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "L'Amore che Riscalda di Mirko Lancerotto",
+          "en": "L'Amore che Riscalda by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/43/main-original.png",
+          "thumbnail": "/assets/images/artworks/43/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/43/main-small.jpg",
+          "medium": "/assets/images/artworks/43/main-medium.jpg",
+          "large": "/assets/images/artworks/43/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "L'Amore che Riscalda | Mirko Lancerotto",
+        "en": "L'Amore che Riscalda | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 38,
+    "slug": "nigredo",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Nigredo",
+      "en": "Nigredo"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 36,
+      "heightCm": 64,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Nigredo di Mirko Lancerotto",
+          "en": "Nigredo by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/38/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/38/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/38/main-small.jpg",
+          "medium": "/assets/images/artworks/38/main-medium.jpg",
+          "large": "/assets/images/artworks/38/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Nigredo | Mirko Lancerotto",
+        "en": "Nigredo | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 36,
+    "slug": "la-malinconia-dell-uomo-insalata-nel-suo-nido-d-amore",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "La malinconia dell'uomo insalata nel suo nido d'amore",
+      "en": "La malinconia dell'uomo insalata nel suo nido d'amore"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 30,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La malinconia dell'uomo insalata nel suo nido d'amore di Mirko Lancerotto",
+          "en": "La malinconia dell'uomo insalata nel suo nido d'amore by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/36/main-original.png",
+          "thumbnail": "/assets/images/artworks/36/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/36/main-small.jpg",
+          "medium": "/assets/images/artworks/36/main-medium.jpg",
+          "large": "/assets/images/artworks/36/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La malinconia dell'uomo insalata nel suo nido d'amore | Mirko Lancerotto",
+        "en": "La malinconia dell'uomo insalata nel suo nido d'amore | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 34,
+    "slug": "aspirando-al-risveglio",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Aspirando al Risveglio",
+      "en": "Aspirando al Risveglio"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 74,
+      "heightCm": 128,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Aspirando al Risveglio di Mirko Lancerotto",
+          "en": "Aspirando al Risveglio by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/34/main-original.png",
+          "thumbnail": "/assets/images/artworks/34/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/34/main-small.jpg",
+          "medium": "/assets/images/artworks/34/main-medium.jpg",
+          "large": "/assets/images/artworks/34/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Aspirando al Risveglio | Mirko Lancerotto",
+        "en": "Aspirando al Risveglio | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 30,
+    "slug": "giancarlo-riposa",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Giancarlo riposa",
+      "en": "Giancarlo riposa"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Acrilico",
+      "en": "Acrilico"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 33,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Giancarlo riposa di Mirko Lancerotto",
+          "en": "Giancarlo riposa by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/30/main-original.png",
+          "thumbnail": "/assets/images/artworks/30/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/30/main-small.jpg",
+          "medium": "/assets/images/artworks/30/main-medium.jpg",
+          "large": "/assets/images/artworks/30/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Giancarlo riposa | Mirko Lancerotto",
+        "en": "Giancarlo riposa | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acrilico, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Acrilico, 2021."
+      }
+    }
+  },
+  {
+    "id": 28,
+    "slug": "il-sole-nella-terra",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Il Sole nella Terra",
+      "en": "Il Sole nella Terra"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista",
+      "en": "Tecnica mista"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 42,
+      "heightCm": 42,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Il Sole nella Terra di Mirko Lancerotto",
+          "en": "Il Sole nella Terra by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/28/main-original.png",
+          "thumbnail": "/assets/images/artworks/28/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/28/main-small.jpg",
+          "medium": "/assets/images/artworks/28/main-medium.jpg",
+          "large": "/assets/images/artworks/28/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Il Sole nella Terra | Mirko Lancerotto",
+        "en": "Il Sole nella Terra | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista, 2021."
+      }
+    }
+  },
+  {
+    "id": 25,
+    "slug": "mondo-di-fuoco",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Mondo di Fuoco",
+      "en": "Mondo di Fuoco"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 80,
+      "heightCm": 45,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Mondo di Fuoco di Mirko Lancerotto",
+          "en": "Mondo di Fuoco by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/25/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/25/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/25/main-small.jpg",
+          "medium": "/assets/images/artworks/25/main-medium.jpg",
+          "large": "/assets/images/artworks/25/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Mondo di Fuoco | Mirko Lancerotto",
+        "en": "Mondo di Fuoco | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 24,
+    "slug": "musicista",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Musicista",
+      "en": "Musicista"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 21,
+      "heightCm": 25,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Musicista di Mirko Lancerotto",
+          "en": "Musicista by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/24/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/24/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/24/main-small.jpg",
+          "medium": "/assets/images/artworks/24/main-medium.jpg",
+          "large": "/assets/images/artworks/24/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Musicista | Mirko Lancerotto",
+        "en": "Musicista | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 23,
+    "slug": "nonno-spirituale",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Nonno spirituale",
+      "en": "Nonno spirituale"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 100,
+      "heightCm": 55,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Nonno spirituale di Mirko Lancerotto",
+          "en": "Nonno spirituale by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/23/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/23/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/23/main-small.jpg",
+          "medium": "/assets/images/artworks/23/main-medium.jpg",
+          "large": "/assets/images/artworks/23/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Nonno spirituale | Mirko Lancerotto",
+        "en": "Nonno spirituale | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "slug": "proposta-di-aiuto",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Proposta di aiuto",
+      "en": "Proposta di aiuto"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 60,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Proposta di aiuto di Mirko Lancerotto",
+          "en": "Proposta di aiuto by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/21/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/21/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/21/main-small.jpg",
+          "medium": "/assets/images/artworks/21/main-medium.jpg",
+          "large": "/assets/images/artworks/21/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Proposta di aiuto | Mirko Lancerotto",
+        "en": "Proposta di aiuto | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "slug": "guerriero-nella-notte",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Guerriero nella Notte",
+      "en": "Guerriero nella Notte"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 29,
+      "heightCm": 29,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Guerriero nella Notte di Mirko Lancerotto",
+          "en": "Guerriero nella Notte by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/15/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/15/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/15/main-small.jpg",
+          "medium": "/assets/images/artworks/15/main-medium.jpg",
+          "large": "/assets/images/artworks/15/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Guerriero nella Notte | Mirko Lancerotto",
+        "en": "Guerriero nella Notte | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "slug": "l-abbraccio-redentore",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "L'Abbraccio Redentore",
+      "en": "L'Abbraccio Redentore"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 48,
+      "heightCm": 48,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "L'Abbraccio Redentore di Mirko Lancerotto",
+          "en": "L'Abbraccio Redentore by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/14/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/14/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/14/main-small.jpg",
+          "medium": "/assets/images/artworks/14/main-medium.jpg",
+          "large": "/assets/images/artworks/14/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "L'Abbraccio Redentore | Mirko Lancerotto",
+        "en": "L'Abbraccio Redentore | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "slug": "misteri",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Misteri",
+      "en": "Misteri"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 21,
+      "heightCm": 25,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Misteri di Mirko Lancerotto",
+          "en": "Misteri by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/10/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/10/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/10/main-small.jpg",
+          "medium": "/assets/images/artworks/10/main-medium.jpg",
+          "large": "/assets/images/artworks/10/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Misteri | Mirko Lancerotto",
+        "en": "Misteri | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "slug": "i-sublimi-sapori-dello-chef-di-saturno-bozzetto",
+    "type": "work_on_paper",
+    "status": "not_available",
+    "title": {
+      "it": "I Sublimi Sapori dello Chef di Saturno - Bozzetto",
+      "en": "I Sublimi Sapori dello Chef di Saturno - Bozzetto"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta da acquerello",
+      "en": "Carta da acquerello"
+    },
+    "dimensions": {
+      "widthCm": 21,
+      "heightCm": 25,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "I Sublimi Sapori dello Chef di Saturno - Bozzetto di Mirko Lancerotto",
+          "en": "I Sublimi Sapori dello Chef di Saturno - Bozzetto by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/9/main-original.png",
+          "thumbnail": "/assets/images/artworks/9/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/9/main-small.jpg",
+          "medium": "/assets/images/artworks/9/main-medium.jpg",
+          "large": "/assets/images/artworks/9/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "I Sublimi Sapori dello Chef di Saturno - Bozzetto | Mirko Lancerotto",
+        "en": "I Sublimi Sapori dello Chef di Saturno - Bozzetto | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "slug": "iniziazione",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Iniziazione",
+      "en": "Iniziazione"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 18,
+      "heightCm": 24,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Iniziazione di Mirko Lancerotto",
+          "en": "Iniziazione by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/7/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/7/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/7/main-small.jpg",
+          "medium": "/assets/images/artworks/7/main-medium.jpg",
+          "large": "/assets/images/artworks/7/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Iniziazione | Mirko Lancerotto",
+        "en": "Iniziazione | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "slug": "la-danza-di-magdalena",
+    "type": "painting",
+    "status": "not_available",
+    "title": {
+      "it": "La Danza di Magdalena",
+      "en": "La Danza di Magdalena"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 90,
+      "heightCm": 60,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La Danza di Magdalena di Mirko Lancerotto",
+          "en": "La Danza di Magdalena by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/4/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/4/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/4/main-small.jpg",
+          "medium": "/assets/images/artworks/4/main-medium.jpg",
+          "large": "/assets/images/artworks/4/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La Danza di Magdalena | Mirko Lancerotto",
+        "en": "La Danza di Magdalena | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "slug": "guerriero-di-luce",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Guerriero di Luce",
+      "en": "Guerriero di Luce"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 59,
+      "heightCm": 34,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Guerriero di Luce di Mirko Lancerotto",
+          "en": "Guerriero di Luce by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/3/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/3/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/3/main-small.jpg",
+          "medium": "/assets/images/artworks/3/main-medium.jpg",
+          "large": "/assets/images/artworks/3/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Guerriero di Luce | Mirko Lancerotto",
+        "en": "Guerriero di Luce | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "slug": "la-grande-invocazione",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "La Grande Invocazione",
+      "en": "La Grande Invocazione"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2021,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 70,
+      "heightCm": 70,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La Grande Invocazione di Mirko Lancerotto",
+          "en": "La Grande Invocazione by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/2/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/2/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/2/main-small.jpg",
+          "medium": "/assets/images/artworks/2/main-medium.jpg",
+          "large": "/assets/images/artworks/2/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La Grande Invocazione | Mirko Lancerotto",
+        "en": "La Grande Invocazione | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+      }
+    }
+  },
+  {
+    "id": 62,
+    "slug": "gatto",
+    "type": "painting",
+    "status": "not_available",
+    "title": {
+      "it": "Gatto",
+      "en": "Gatto"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 18,
+      "heightCm": 24,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Gatto di Mirko Lancerotto",
+          "en": "Gatto by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/62/main-original.png",
+          "thumbnail": "/assets/images/artworks/62/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/62/main-small.jpg",
+          "medium": "/assets/images/artworks/62/main-medium.jpg",
+          "large": "/assets/images/artworks/62/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Gatto | Mirko Lancerotto",
+        "en": "Gatto | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera non disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Not available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 61,
+    "slug": "la-scelta-del-lupo",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "La scelta del lupo",
+      "en": "La scelta del lupo"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 40,
+      "heightCm": 30,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La scelta del lupo di Mirko Lancerotto",
+          "en": "La scelta del lupo by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/61/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/61/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/61/main-small.jpg",
+          "medium": "/assets/images/artworks/61/main-medium.jpg",
+          "large": "/assets/images/artworks/61/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La scelta del lupo | Mirko Lancerotto",
+        "en": "La scelta del lupo | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 60,
+    "slug": "pesci",
+    "type": "painting",
+    "status": "not_available",
+    "title": {
+      "it": "Pesci",
+      "en": "Pesci"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 18,
+      "heightCm": 24,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Pesci di Mirko Lancerotto",
+          "en": "Pesci by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/60/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/60/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/60/main-small.jpg",
+          "medium": "/assets/images/artworks/60/main-medium.jpg",
+          "large": "/assets/images/artworks/60/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Pesci | Mirko Lancerotto",
+        "en": "Pesci | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera non disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Not available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 59,
+    "slug": "goura-victoria",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Goura victoria",
+      "en": "Goura victoria"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 40,
+      "heightCm": 50,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Goura victoria di Mirko Lancerotto",
+          "en": "Goura victoria by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/59/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/59/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/59/main-small.jpg",
+          "medium": "/assets/images/artworks/59/main-medium.jpg",
+          "large": "/assets/images/artworks/59/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Goura victoria | Mirko Lancerotto",
+        "en": "Goura victoria | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 58,
+    "slug": "alberi-in-cammino",
+    "type": "painting",
+    "status": "not_available",
+    "title": {
+      "it": "Alberi in cammino",
+      "en": "Alberi in cammino"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 18,
+      "heightCm": 24,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Alberi in cammino di Mirko Lancerotto",
+          "en": "Alberi in cammino by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/58/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/58/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/58/main-small.jpg",
+          "medium": "/assets/images/artworks/58/main-medium.jpg",
+          "large": "/assets/images/artworks/58/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Alberi in cammino | Mirko Lancerotto",
+        "en": "Alberi in cammino | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera non disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Not available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 57,
+    "slug": "moda",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Moda",
+      "en": "Moda"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 18,
+      "heightCm": 24,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Moda di Mirko Lancerotto",
+          "en": "Moda by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/57/main-original.png",
+          "thumbnail": "/assets/images/artworks/57/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/57/main-small.jpg",
+          "medium": "/assets/images/artworks/57/main-medium.jpg",
+          "large": "/assets/images/artworks/57/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Moda | Mirko Lancerotto",
+        "en": "Moda | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 56,
+    "slug": "pecora",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Pecora",
+      "en": "Pecora"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 18,
+      "heightCm": 24,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Pecora di Mirko Lancerotto",
+          "en": "Pecora by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/56/main-original.png",
+          "thumbnail": "/assets/images/artworks/56/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/56/main-small.jpg",
+          "medium": "/assets/images/artworks/56/main-medium.jpg",
+          "large": "/assets/images/artworks/56/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Pecora | Mirko Lancerotto",
+        "en": "Pecora | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 55,
+    "slug": "estasi",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Estasi",
+      "en": "Estasi"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 40,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Estasi di Mirko Lancerotto",
+          "en": "Estasi by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/55/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/55/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/55/main-small.jpg",
+          "medium": "/assets/images/artworks/55/main-medium.jpg",
+          "large": "/assets/images/artworks/55/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Estasi | Mirko Lancerotto",
+        "en": "Estasi | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 53,
+    "slug": "mio-nonno-e-mia-nonna",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Mio nonno e mia nonna",
+      "en": "Mio nonno e mia nonna"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 20,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Mio nonno e mia nonna di Mirko Lancerotto",
+          "en": "Mio nonno e mia nonna by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/53/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/53/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/53/main-small.jpg",
+          "medium": "/assets/images/artworks/53/main-medium.jpg",
+          "large": "/assets/images/artworks/53/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Mio nonno e mia nonna | Mirko Lancerotto",
+        "en": "Mio nonno e mia nonna | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 52,
+    "slug": "michael",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Michael",
+      "en": "Michael"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 25,
+      "heightCm": 20,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Michael di Mirko Lancerotto",
+          "en": "Michael by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/52/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/52/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/52/main-small.jpg",
+          "medium": "/assets/images/artworks/52/main-medium.jpg",
+          "large": "/assets/images/artworks/52/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Michael | Mirko Lancerotto",
+        "en": "Michael | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 51,
+    "slug": "mara",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Mara",
+      "en": "Mara"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 25,
+      "heightCm": 20,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Mara di Mirko Lancerotto",
+          "en": "Mara by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/51/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/51/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/51/main-small.jpg",
+          "medium": "/assets/images/artworks/51/main-medium.jpg",
+          "large": "/assets/images/artworks/51/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Mara | Mirko Lancerotto",
+        "en": "Mara | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 49,
+    "slug": "chi-sono-io",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Chi sono Io?",
+      "en": "Chi sono Io?"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Acquerello e inchistri",
+      "en": "Acquerello e inchistri"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 21,
+      "heightCm": 30,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Chi sono Io? di Mirko Lancerotto",
+          "en": "Chi sono Io? by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/49/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/49/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/49/main-small.jpg",
+          "medium": "/assets/images/artworks/49/main-medium.jpg",
+          "large": "/assets/images/artworks/49/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Chi sono Io? | Mirko Lancerotto",
+        "en": "Chi sono Io? | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello e inchistri, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello e inchistri, 2020."
+      }
+    }
+  },
+  {
+    "id": 46,
+    "slug": "trasmutazione-alchemica-2",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Trasmutazione alchemica 2",
+      "en": "Trasmutazione alchemica 2"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 56,
+      "heightCm": 76,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Trasmutazione alchemica 2 di Mirko Lancerotto",
+          "en": "Trasmutazione alchemica 2 by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/46/main-original.png",
+          "thumbnail": "/assets/images/artworks/46/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/46/main-small.jpg",
+          "medium": "/assets/images/artworks/46/main-medium.jpg",
+          "large": "/assets/images/artworks/46/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Trasmutazione alchemica 2 | Mirko Lancerotto",
+        "en": "Trasmutazione alchemica 2 | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 45,
+    "slug": "trasmutazione-alchemica",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Trasmutazione alchemica",
+      "en": "Trasmutazione alchemica"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 56,
+      "heightCm": 76,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Trasmutazione alchemica di Mirko Lancerotto",
+          "en": "Trasmutazione alchemica by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/45/main-original.png",
+          "thumbnail": "/assets/images/artworks/45/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/45/main-small.jpg",
+          "medium": "/assets/images/artworks/45/main-medium.jpg",
+          "large": "/assets/images/artworks/45/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Trasmutazione alchemica | Mirko Lancerotto",
+        "en": "Trasmutazione alchemica | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 42,
+    "slug": "amiche-del-cuore",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Amiche del Cuore",
+      "en": "Amiche del Cuore"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 40,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Amiche del Cuore di Mirko Lancerotto",
+          "en": "Amiche del Cuore by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/42/main-original.png",
+          "thumbnail": "/assets/images/artworks/42/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/42/main-small.jpg",
+          "medium": "/assets/images/artworks/42/main-medium.jpg",
+          "large": "/assets/images/artworks/42/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Amiche del Cuore | Mirko Lancerotto",
+        "en": "Amiche del Cuore | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 40,
+    "slug": "il-risorgere-della-fenice",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Il Risorgere della Fenice",
+      "en": "Il Risorgere della Fenice"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 70,
+      "heightCm": 50,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Il Risorgere della Fenice di Mirko Lancerotto",
+          "en": "Il Risorgere della Fenice by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/40/main-original.png",
+          "thumbnail": "/assets/images/artworks/40/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/40/main-small.jpg",
+          "medium": "/assets/images/artworks/40/main-medium.jpg",
+          "large": "/assets/images/artworks/40/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Il Risorgere della Fenice | Mirko Lancerotto",
+        "en": "Il Risorgere della Fenice | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 33,
+    "slug": "ghiaccio-nello-spazio",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Ghiaccio nello Spazio",
+      "en": "Ghiaccio nello Spazio"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 73,
+      "heightCm": 52,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Ghiaccio nello Spazio di Mirko Lancerotto",
+          "en": "Ghiaccio nello Spazio by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/33/main-original.png",
+          "thumbnail": "/assets/images/artworks/33/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/33/main-small.jpg",
+          "medium": "/assets/images/artworks/33/main-medium.jpg",
+          "large": "/assets/images/artworks/33/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Ghiaccio nello Spazio | Mirko Lancerotto",
+        "en": "Ghiaccio nello Spazio | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 32,
+    "slug": "mano-di-luce",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Mano di luce",
+      "en": "Mano di luce"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 68,
+      "heightCm": 48,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Mano di luce di Mirko Lancerotto",
+          "en": "Mano di luce by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/32/main-original.png",
+          "thumbnail": "/assets/images/artworks/32/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/32/main-small.jpg",
+          "medium": "/assets/images/artworks/32/main-medium.jpg",
+          "large": "/assets/images/artworks/32/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Mano di luce | Mirko Lancerotto",
+        "en": "Mano di luce | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 31,
+    "slug": "autoritratto-2",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Autoritratto",
+      "en": "Autoritratto"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 65,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Autoritratto di Mirko Lancerotto",
+          "en": "Autoritratto by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/31/main-original.png",
+          "thumbnail": "/assets/images/artworks/31/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/31/main-small.jpg",
+          "medium": "/assets/images/artworks/31/main-medium.jpg",
+          "large": "/assets/images/artworks/31/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Autoritratto | Mirko Lancerotto",
+        "en": "Autoritratto | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2020."
+      }
+    }
+  },
+  {
+    "id": 26,
+    "slug": "per-lucrezia-borgia",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Per Lucrezia Borgia",
+      "en": "Per Lucrezia Borgia"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 60,
+      "heightCm": 60,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Per Lucrezia Borgia di Mirko Lancerotto",
+          "en": "Per Lucrezia Borgia by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/26/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/26/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/26/main-small.jpg",
+          "medium": "/assets/images/artworks/26/main-medium.jpg",
+          "large": "/assets/images/artworks/26/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Per Lucrezia Borgia | Mirko Lancerotto",
+        "en": "Per Lucrezia Borgia | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "slug": "maremoti-interiori",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Maremoti Interiori",
+      "en": "Maremoti Interiori"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 65,
+      "heightCm": 50,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Maremoti Interiori di Mirko Lancerotto",
+          "en": "Maremoti Interiori by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/20/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/20/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/20/main-small.jpg",
+          "medium": "/assets/images/artworks/20/main-medium.jpg",
+          "large": "/assets/images/artworks/20/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Maremoti Interiori | Mirko Lancerotto",
+        "en": "Maremoti Interiori | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2020."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "slug": "sherzad-in-compassione",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Sherzad in Compassione",
+      "en": "Sherzad in Compassione"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 80,
+      "heightCm": 60,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Sherzad in Compassione di Mirko Lancerotto",
+          "en": "Sherzad in Compassione by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/17/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/17/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/17/main-small.jpg",
+          "medium": "/assets/images/artworks/17/main-medium.jpg",
+          "large": "/assets/images/artworks/17/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Sherzad in Compassione | Mirko Lancerotto",
+        "en": "Sherzad in Compassione | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "slug": "mio-nonno-mi-rivede-dopo-la-morte-di-mia-zia",
+    "type": "drawing",
+    "status": "available",
+    "title": {
+      "it": "Mio nonno mi rivede dopo la morte di mia zia",
+      "en": "Mio nonno mi rivede dopo la morte di mia zia"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Acquerello e matita",
+      "en": "Acquerello e matita"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 24,
+      "heightCm": 18,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Mio nonno mi rivede dopo la morte di mia zia di Mirko Lancerotto",
+          "en": "Mio nonno mi rivede dopo la morte di mia zia by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/16/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/16/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/16/main-small.jpg",
+          "medium": "/assets/images/artworks/16/main-medium.jpg",
+          "large": "/assets/images/artworks/16/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Mio nonno mi rivede dopo la morte di mia zia | Mirko Lancerotto",
+        "en": "Mio nonno mi rivede dopo la morte di mia zia | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello e matita, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello e matita, 2020."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "slug": "preghiera-dell-anima",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Preghiera dell'Anima",
+      "en": "Preghiera dell'Anima"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 40,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Preghiera dell'Anima di Mirko Lancerotto",
+          "en": "Preghiera dell'Anima by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/13/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/13/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/13/main-small.jpg",
+          "medium": "/assets/images/artworks/13/main-medium.jpg",
+          "large": "/assets/images/artworks/13/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Preghiera dell'Anima | Mirko Lancerotto",
+        "en": "Preghiera dell'Anima | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "slug": "sulla-via-della-luce",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Sulla via della Luce",
+      "en": "Sulla via della Luce"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 68,
+      "heightCm": 48,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Sulla via della Luce di Mirko Lancerotto",
+          "en": "Sulla via della Luce by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/12/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/12/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/12/main-small.jpg",
+          "medium": "/assets/images/artworks/12/main-medium.jpg",
+          "large": "/assets/images/artworks/12/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Sulla via della Luce | Mirko Lancerotto",
+        "en": "Sulla via della Luce | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "slug": "introspezione",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Introspezione",
+      "en": "Introspezione"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 100,
+      "heightCm": 120,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Introspezione di Mirko Lancerotto",
+          "en": "Introspezione by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/8/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/8/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/8/main-small.jpg",
+          "medium": "/assets/images/artworks/8/main-medium.jpg",
+          "large": "/assets/images/artworks/8/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Introspezione | Mirko Lancerotto",
+        "en": "Introspezione | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "slug": "esoterista",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Esoterista",
+      "en": "Esoterista"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 90,
+      "heightCm": 60,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Esoterista di Mirko Lancerotto",
+          "en": "Esoterista by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/6/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/6/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/6/main-small.jpg",
+          "medium": "/assets/images/artworks/6/main-medium.jpg",
+          "large": "/assets/images/artworks/6/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Esoterista | Mirko Lancerotto",
+        "en": "Esoterista | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "slug": "la-tragica-instabilita-della-materia",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "La Tragica Instabilità della Materia",
+      "en": "La Tragica Instabilità della Materia"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 20,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La Tragica Instabilità della Materia di Mirko Lancerotto",
+          "en": "La Tragica Instabilità della Materia by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/5/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/5/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/5/main-small.jpg",
+          "medium": "/assets/images/artworks/5/main-medium.jpg",
+          "large": "/assets/images/artworks/5/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La Tragica Instabilità della Materia | Mirko Lancerotto",
+        "en": "La Tragica Instabilità della Materia | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
+      }
+    }
+  },
+  {
+    "id": 1,
+    "slug": "io-e-mio-fratello-morto-sospesi-tra-apollineo-e-dionisiaco",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Io e Mio Fratello Morto Sospesi Tra Apollineo e Dionisiaco",
+      "en": "Io e Mio Fratello Morto Sospesi Tra Apollineo e Dionisiaco"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2020,
+    "technique": {
+      "it": "Acrilico",
+      "en": "Acrilico"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 100,
+      "heightCm": 70,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Io e Mio Fratello Morto Sospesi Tra Apollineo e Dionisiaco di Mirko Lancerotto",
+          "en": "Io e Mio Fratello Morto Sospesi Tra Apollineo e Dionisiaco by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/1/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/1/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/1/main-small.jpg",
+          "medium": "/assets/images/artworks/1/main-medium.jpg",
+          "large": "/assets/images/artworks/1/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Io e Mio Fratello Morto Sospesi Tra Apollineo e Dionisiaco | Mirko Lancerotto",
+        "en": "Io e Mio Fratello Morto Sospesi Tra Apollineo e Dionisiaco | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acrilico, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Acrilico, 2020."
+      }
+    }
+  },
+  {
+    "id": 75,
+    "slug": "tommy",
+    "type": "drawing",
+    "status": "available",
+    "title": {
+      "it": "Tommy",
+      "en": "Tommy"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2019,
+    "technique": {
+      "it": "Acquerello e matita",
+      "en": "Acquerello e matita"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 21,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Tommy di Mirko Lancerotto",
+          "en": "Tommy by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/75/main-original.jpeg",
+          "thumbnail": "/assets/images/artworks/75/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/75/main-small.jpg",
+          "medium": "/assets/images/artworks/75/main-medium.jpg",
+          "large": "/assets/images/artworks/75/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Tommy | Mirko Lancerotto",
+        "en": "Tommy | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello e matita, 2019.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello e matita, 2019."
+      }
+    }
+  },
+  {
+    "id": 74,
+    "slug": "cascata-di-lava",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Cascata di lava",
+      "en": "Cascata di lava"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2019,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 21,
+      "heightCm": 30,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Cascata di lava di Mirko Lancerotto",
+          "en": "Cascata di lava by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/74/main-original.jpeg",
+          "thumbnail": "/assets/images/artworks/74/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/74/main-small.jpg",
+          "medium": "/assets/images/artworks/74/main-medium.jpg",
+          "large": "/assets/images/artworks/74/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Cascata di lava | Mirko Lancerotto",
+        "en": "Cascata di lava | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2019.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2019."
+      }
+    }
+  },
+  {
+    "id": 73,
+    "slug": "lago",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Lago",
+      "en": "Lago"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2019,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 21,
+      "heightCm": 30,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Lago di Mirko Lancerotto",
+          "en": "Lago by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/73/main-original.jpeg",
+          "thumbnail": "/assets/images/artworks/73/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/73/main-small.jpg",
+          "medium": "/assets/images/artworks/73/main-medium.jpg",
+          "large": "/assets/images/artworks/73/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Lago | Mirko Lancerotto",
+        "en": "Lago | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2019.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2019."
+      }
+    }
+  },
+  {
+    "id": 22,
+    "slug": "delfino-che-si-riposa-sul-fondale",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Delfino che si riposa sul fondale",
+      "en": "Delfino che si riposa sul fondale"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2019,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 20,
+      "heightCm": 30,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Delfino che si riposa sul fondale di Mirko Lancerotto",
+          "en": "Delfino che si riposa sul fondale by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/22/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/22/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/22/main-small.jpg",
+          "medium": "/assets/images/artworks/22/main-medium.jpg",
+          "large": "/assets/images/artworks/22/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Delfino che si riposa sul fondale | Mirko Lancerotto",
+        "en": "Delfino che si riposa sul fondale | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2019.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2019."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "slug": "pubblico-alla-performance-sessantesimo-compleanno-di-david-zambrano",
+    "type": "work_on_paper",
+    "status": "available",
+    "title": {
+      "it": "Pubblico alla Performance: Sessantesimo compleanno di David Zambrano",
+      "en": "Pubblico alla Performance: Sessantesimo compleanno di David Zambrano"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2019,
+    "technique": {
+      "it": "Acquerello",
+      "en": "Acquerello"
+    },
+    "support": {
+      "it": "Carta da Acquerello",
+      "en": "Carta da Acquerello"
+    },
+    "dimensions": {
+      "widthCm": 66,
+      "heightCm": 93,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Pubblico alla Performance: Sessantesimo compleanno di David Zambrano di Mirko Lancerotto",
+          "en": "Pubblico alla Performance: Sessantesimo compleanno di David Zambrano by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/19/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/19/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/19/main-small.jpg",
+          "medium": "/assets/images/artworks/19/main-medium.jpg",
+          "large": "/assets/images/artworks/19/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Pubblico alla Performance: Sessantesimo compleanno di David Zambrano | Mirko Lancerotto",
+        "en": "Pubblico alla Performance: Sessantesimo compleanno di David Zambrano | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Acquerello, 2019.",
+        "en": "Available artwork by Mirko Lancerotto, Acquerello, 2019."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "slug": "tramonto",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Tramonto",
+      "en": "Tramonto"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2018,
+    "technique": {
+      "it": "Olio",
+      "en": "Olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 40,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Tramonto di Mirko Lancerotto",
+          "en": "Tramonto by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/18/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/18/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/18/main-small.jpg",
+          "medium": "/assets/images/artworks/18/main-medium.jpg",
+          "large": "/assets/images/artworks/18/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Tramonto | Mirko Lancerotto",
+        "en": "Tramonto | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2018.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2018."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "slug": "cicli-dell-infinito",
+    "type": "painting",
+    "status": "private_collection",
+    "title": {
+      "it": "Cicli dell'infinito",
+      "en": "Cicli dell'infinito"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2018,
+    "technique": {
+      "it": "Acrilico",
+      "en": "Acrilico"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 18,
+      "heightCm": 24,
+      "depthCm": null
+    },
+    "price": {
+      "amount": null,
+      "currency": "EUR",
+      "visible": false
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Cicli dell'infinito di Mirko Lancerotto",
+          "en": "Cicli dell'infinito by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/11/main-original.jpeg",
+          "thumbnail": "/assets/images/artworks/11/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/11/main-small.jpg",
+          "medium": "/assets/images/artworks/11/main-medium.jpg",
+          "large": "/assets/images/artworks/11/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Cicli dell'infinito | Mirko Lancerotto",
+        "en": "Cicli dell'infinito | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera in collezione privata di Mirko Lancerotto, Acrilico, 2018.",
+        "en": "Private collection artwork by Mirko Lancerotto, Acrilico, 2018."
+      }
+    }
+  }
+]

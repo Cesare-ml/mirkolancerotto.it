@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#ddd2c4"/>
+  <rect x="200" y="120" width="1000" height="680" fill="#f8f4ee"/>
+  <rect x="490" y="180" width="420" height="500" fill="#826550"/>
+  <path d="M540 560c100-120 180-220 290-280" fill="none" stroke="#f2e2cf" stroke-width="12"/>
+  <text x="120" y="920" fill="#3f3227" font-family="Georgia, serif" font-size="60">Ambient Mock</text>
+</svg>

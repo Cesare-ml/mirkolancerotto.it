@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1400">
+  <rect width="1000" height="1400" fill="#f6f2eb"/>
+  <path d="M210 1020c160-150 280-240 550-620" fill="none" stroke="#433b36" stroke-width="10"/>
+  <path d="M180 840c200-50 360-30 640 120" fill="none" stroke="#857668" stroke-width="7"/>
+  <text x="80" y="1280" fill="#433b36" font-family="Georgia, serif" font-size="62">Mock Drawing III</text>
+</svg>
