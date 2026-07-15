@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/split-section/split-section.component.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.split-section__layout\n  align-items: center\n  animation: splitSectionReveal 0.4s ease-out both\n\n  &--reverse\n    @media (min-width: 1024px)\n      .split-section__copy\n        order: 2\n\n      .split-section__visual\n        order: 1\n\n.split-section__visual\n  overflow: hidden\n  border-radius: 2rem\n  background: linear-gradient(180deg, #f2e8dd, #fbf6ef)\n  box-shadow: var(--site-shadow-soft)\n\n.split-section__image\n  display: block\n  width: 100%\n  min-height: 26rem\n  object-fit: cover\n\n@keyframes splitSectionReveal\n  from\n    opacity: 0\n    transform: translateY(16px)\n  to\n    opacity: 1\n    transform: translateY(0)\n\n@media (prefers-reduced-motion: reduce)\n  .split-section__layout\n    animation: none\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE,eAAA;AACA,aAAA,mBAAA,KAAA,SAAA;;AAGE,OAAA,CAAA,SAAA,EAAA;AACE,GAAA,+BAAA,CAAA;AACE,WAAA;;AAEF,GAHA,+BAGA,CAAA;AACE,WAAA;;;AAER,CAHM;AAIJ,YAAA;AACA,iBAAA;AACA;IAAA;MAAA,MAAA;MAAA,OAAA;MAAA;AACA,cAAA,IAAA;;AAEF,CAAA;AACE,WAAA;AACA,SAAA;AACA,cAAA;AACA,cAAA;;AAEF,WAtBE;AAuBA;AACE,aAAA;AACA,eAAA,WAAA;;AACF;AACE,aAAA;AACA,eAAA,WAAA;;;AAEJ,OAAA,CAAA,sBAAA,EAAA;AACE,GAjCF;AAkCI,eAAA;;;",
+  "names": []
+}

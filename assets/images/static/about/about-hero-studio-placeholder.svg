@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" fill="none">
+  <rect width="1600" height="1100" fill="#d9c9b5"/>
+  <rect x="80" y="80" width="1440" height="940" rx="44" fill="#efe6dc"/>
+  <rect x="180" y="180" width="420" height="720" rx="28" fill="#ceb79a"/>
+  <rect x="670" y="180" width="740" height="380" rx="28" fill="#e4d3bf"/>
+  <rect x="670" y="620" width="740" height="280" rx="28" fill="#d7c2ab"/>
+  <text x="180" y="980" fill="#47392c" font-family="Georgia, serif" font-size="38">ABOUT HERO PLACEHOLDER</text>
+  <text x="180" y="1028" fill="#7d6955" font-family="Arial, sans-serif" font-size="24">portrait in studio / natural / non posed</text>
+</svg>

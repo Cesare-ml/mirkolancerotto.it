@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Matteo testimonial placeholder</title>
+  <desc id="desc">Placeholder editoriale per testimonianza cliente nella pagina commissioni.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8efe4"/>
+      <stop offset="100%" stop-color="#e5d0bb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="600" cy="320" r="128" fill="#bf9270" opacity="0.42"/>
+  <rect x="370" y="500" width="460" height="180" rx="90" fill="#9d6b49" opacity="0.3"/>
+  <text x="110" y="780" fill="#6d4f39" font-family="Georgia, serif" font-size="44" letter-spacing="10">SOSTITUIRE CON FOTO TESTIMONIANZA</text>
+  <text x="110" y="840" fill="#8e6c53" font-family="Arial, sans-serif" font-size="28" letter-spacing="5">MATTEO</text>
+</svg>

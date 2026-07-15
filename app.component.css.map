@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/app.component.sass"],
+  "sourcesContent": [":host\n  display: block\n  min-height: 100dvh\n\n.site-shell\n  view-transition-name: site-shell\n\n@media (prefers-reduced-motion: no-preference)\n  ::view-transition-old(site-shell)\n    animation: siteShellFadeOut 220ms ease both\n\n  ::view-transition-new(site-shell)\n    animation: siteShellFadeIn 320ms ease both\n\n@keyframes siteShellFadeOut\n  from\n    opacity: 1\n    transform: translateY(0)\n  to\n    opacity: 0\n    transform: translateY(8px)\n\n@keyframes siteShellFadeIn\n  from\n    opacity: 0\n    transform: translateY(14px)\n  to\n    opacity: 1\n    transform: translateY(0)\n\n:host-context(body.artwork-fullscreen-open)\n  app-header\n    opacity: 0\n    pointer-events: none\n\n  app-footer\n    opacity: 0\n    pointer-events: none\n"],
+  "mappings": ";AAAA;AACE,WAAA;AACA,cAAA;;AAEF,CAAA;AACE,wBAAA;;AAEF,OAAA,CAAA,sBAAA,EAAA;AACE,wBAAA;AACE,eAAA,iBAAA,MAAA,KAAA;;AAEF,wBAAA;AACE,eAAA,gBAAA,MAAA,KAAA;;;AAEJ,WALI;AAMF;AACE,aAAA;AACA,eAAA,WAAA;;AACF;AACE,aAAA;AACA,eAAA,WAAA;;;AAEJ,WAVI;AAWF;AACE,aAAA;AACA,eAAA,WAAA;;AACF;AACE,aAAA;AACA,eAAA,WAAA;;;AAGF,cAAA,IAAA,CAAA,yBAAA;AACE,WAAA;AACA,kBAAA;;AAEF,cAAA,IAAA,CAAA,yBAAA;AACE,WAAA;AACA,kBAAA;;",
+  "names": []
+}

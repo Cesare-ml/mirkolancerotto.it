@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/language-switcher/language-switcher.component.sass"],
+  "sourcesContent": [".language-chip\n  border-radius: 999px\n  font-size: 0.7rem\n  letter-spacing: 0.18em\n  padding: 0.45rem 0.7rem\n  text-decoration: none\n  text-transform: uppercase\n\n.language-chip--active\n  background: rgba(241, 228, 200, 0.95)\n  color: #1c1712\n"],
+  "mappings": ";AAAA,CAAA;AACE,iBAAA;AACA,aAAA;AACA,kBAAA;AACA,WAAA,QAAA;AACA,mBAAA;AACA,kBAAA;;AAEF,CAAA;AACE,cAAA,KAAA,GAAA,EAAA,GAAA,EAAA,GAAA,EAAA;AACA,SAAA;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/manifesto-section/manifesto-section.component.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.manifesto-section__phrase-wrap\n  display: flex\n  align-items: center\n  min-height: min(82vh, 52rem)\n  border-top: 1px solid rgba(32, 27, 22, 0.08)\n\n  &:last-child\n    border-bottom: 1px solid rgba(32, 27, 22, 0.08)\n\n.manifesto-section__phrase\n  max-width: 15ch\n  font-size: clamp(2.6rem, 7vw, 6.4rem)\n  line-height: 0.98\n  color: var(--site-text)\n  opacity: 0\n  transform: translateY(14px)\n  animation: manifestoReveal 0.4s ease-out forwards\n\n@keyframes manifestoReveal\n  from\n    opacity: 0\n    transform: translateY(14px)\n  to\n    opacity: 1\n    transform: translateY(0)\n\n@media (prefers-reduced-motion: reduce)\n  .manifesto-section__phrase\n    opacity: 1\n    transform: none\n    animation: none\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE,WAAA;AACA,eAAA;AACA,cAAA,IAAA,IAAA,EAAA;AACA,cAAA,IAAA,MAAA,KAAA,EAAA,EAAA,EAAA,EAAA,EAAA,EAAA;;AAEA,CANF,8BAME;AACE,iBAAA,IAAA,MAAA,KAAA,EAAA,EAAA,EAAA,EAAA,EAAA,EAAA;;AAEJ,CAAA;AACE,aAAA;AACA,aAAA,MAAA,MAAA,EAAA,GAAA,EAAA;AACA,eAAA;AACA,SAAA,IAAA;AACA,WAAA;AACA,aAAA,WAAA;AACA,aAAA,gBAAA,KAAA,SAAA;;AAEF,WAFE;AAGA;AACE,aAAA;AACA,eAAA,WAAA;;AACF;AACE,aAAA;AACA,eAAA,WAAA;;;AAEJ,OAAA,CAAA,sBAAA,EAAA;AACE,GAlBF;AAmBI,aAAA;AACA,eAAA;AACA,eAAA;;;",
+  "names": []
+}

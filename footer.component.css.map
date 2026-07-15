@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/footer/footer.component.sass"],
+  "sourcesContent": [".footer-link\n  color: inherit\n  text-decoration: none\n\n  &:hover\n    color: white\n"],
+  "mappings": ";AAAA,CAAA;AACE,SAAA;AACA,mBAAA;;AAEA,CAJF,WAIE;AACE,SAAA;;",
+  "names": []
+}

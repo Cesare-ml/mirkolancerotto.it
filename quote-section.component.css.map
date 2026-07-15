@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/quote-section/quote-section.component.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.quote-section__frame\n  background: linear-gradient(180deg, rgba(255, 250, 244, 0.95), rgba(244, 236, 226, 0.98))\n  box-shadow: var(--site-shadow-soft)\n  animation: quoteSectionReveal 0.4s ease-out both\n\n.quote-section__image\n  display: block\n  min-height: 26rem\n  object-fit: cover\n\n@keyframes quoteSectionReveal\n  from\n    opacity: 0\n    transform: translateY(14px)\n  to\n    opacity: 1\n    transform: translateY(0)\n\n@media (prefers-reduced-motion: reduce)\n  .quote-section__frame\n    animation: none\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE;IAAA;MAAA,MAAA;MAAA,KAAA,GAAA,EAAA,GAAA,EAAA,GAAA,EAAA,KAAA;MAAA,KAAA,GAAA,EAAA,GAAA,EAAA,GAAA,EAAA;AACA,cAAA,IAAA;AACA,aAAA,mBAAA,KAAA,SAAA;;AAEF,CAAA;AACE,WAAA;AACA,cAAA;AACA,cAAA;;AAEF,WAPE;AAQA;AACE,aAAA;AACA,eAAA,WAAA;;AACF;AACE,aAAA;AACA,eAAA,WAAA;;;AAEJ,OAAA,CAAA,sBAAA,EAAA;AACE,GAnBF;AAoBI,eAAA;;;",
+  "names": []
+}

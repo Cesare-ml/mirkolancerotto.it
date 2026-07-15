@@ -1,3 +1,9 @@
 {
-  "heroImage": "/assets/images/static/about-hero.svg"
+  "heroImage": "/assets/images/site-sections/about-hero.png",
+  "researchImage": "/assets/images/site-sections/about-research.jpg",
+  "quoteImage": "/assets/images/site-sections/about-quote.jpg",
+  "beyondPaintingImage": "/assets/images/site-sections/about-beyond-painting.png",
+  "presenceImage": "/assets/images/site-sections/about-presence.jpg",
+  "searchImage": "/assets/images/site-sections/about-search.jpg",
+  "ctaImage": "/assets/images/site-sections/about-cta.png"
 }

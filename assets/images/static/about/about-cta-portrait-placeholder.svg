@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1300" fill="none">
+  <rect width="1200" height="1300" fill="#dcc8b1"/>
+  <rect x="100" y="100" width="1000" height="1100" rx="40" fill="#f7efe5"/>
+  <rect x="210" y="180" width="780" height="880" rx="28" fill="#d1b08d"/>
+  <text x="150" y="1160" fill="#47392c" font-family="Georgia, serif" font-size="34">CTA PORTRAIT PLACEHOLDER</text>
+  <text x="150" y="1202" fill="#7d6955" font-family="Arial, sans-serif" font-size="22">natural smiling portrait</text>
+</svg>

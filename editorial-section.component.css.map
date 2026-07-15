@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/editorial-section/editorial-section.component.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.editorial-section\n  animation: editorialSectionReveal 0.4s ease-out both\n\n.editorial-section__item\n  padding-top: 1.25rem\n  border-top: 1px solid rgba(32, 27, 22, 0.12)\n\n.editorial-section__figure\n  background: linear-gradient(180deg, #f2e8dd, #fbf6ef)\n  box-shadow: var(--site-shadow-soft)\n\n.editorial-section__image\n  display: block\n  min-height: 20rem\n  object-fit: cover\n\n@keyframes editorialSectionReveal\n  from\n    opacity: 0\n    transform: translateY(14px)\n  to\n    opacity: 1\n    transform: translateY(0)\n\n@media (prefers-reduced-motion: reduce)\n  .editorial-section\n    animation: none\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE,aAAA,uBAAA,KAAA,SAAA;;AAEF,CAAA;AACE,eAAA;AACA,cAAA,IAAA,MAAA,KAAA,EAAA,EAAA,EAAA,EAAA,EAAA,EAAA;;AAEF,CAAA;AACE;IAAA;MAAA,MAAA;MAAA,OAAA;MAAA;AACA,cAAA,IAAA;;AAEF,CAAA;AACE,WAAA;AACA,cAAA;AACA,cAAA;;AAEF,WAfE;AAgBA;AACE,aAAA;AACA,eAAA,WAAA;;AACF;AACE,aAAA;AACA,eAAA,WAAA;;;AAEJ,OAAA,CAAA,sBAAA,EAAA;AACE,GAzBF;AA0BI,eAAA;;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/artwork-video/artwork-video.component.sass"],
+  "sourcesContent": [":host\n  display: block\n"],
+  "mappings": ";AAAA;AACE,WAAA;;",
+  "names": []
+}

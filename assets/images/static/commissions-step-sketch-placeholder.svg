@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Bozzetto placeholder</title>
+  <desc id="desc">Placeholder per la fase bozzetto della pagina commissioni.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6efe7"/>
+      <stop offset="100%" stop-color="#eadbcb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="310" y="160" width="580" height="520" rx="28" fill="#fffaf4" opacity="0.72"/>
+  <path d="M430 320c78-54 158-66 246-44 60 15 112 48 154 92" stroke="#b5835c" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M430 445c84-38 164-44 248-18 54 17 96 46 124 80" stroke="#a46f49" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <text x="90" y="790" fill="#6d4f39" font-family="Georgia, serif" font-size="42" letter-spacing="8">SOSTITUIRE CON IMMAGINE FASE 2</text>
+</svg>

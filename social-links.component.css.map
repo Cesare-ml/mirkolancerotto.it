@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/social-links/social-links.component.sass"],
+  "sourcesContent": [".social-links\n  min-height: 2.5rem\n\n.social-link\n  display: inline-flex\n  align-items: center\n  justify-content: center\n  gap: 0.55rem\n  color: inherit\n  text-decoration: none\n  transition: transform 0.2s ease, opacity 0.2s ease, color 0.2s ease\n\n  &:hover\n    transform: translateY(-1px)\n    opacity: 0.82\n\n  &--compact\n    width: 2.25rem\n    height: 2.25rem\n    border-radius: 999px\n    border: 1px solid currentColor\n    background: rgba(255, 255, 255, 0.18)\n    opacity: 0.8\n\n.social-link__icon\n  width: 1.15rem\n  height: 1.15rem\n  display: block\n  flex: 0 0 auto\n\n.social-link__label\n  font-size: 0.76rem\n  letter-spacing: 0.12em\n  text-transform: uppercase\n"],
+  "mappings": ";AAAA,CAAA;AACE,cAAA;;AAEF,CAAA;AACE,WAAA;AACA,eAAA;AACA,mBAAA;AACA,OAAA;AACA,SAAA;AACA,mBAAA;AACA;IAAA,UAAA,KAAA,IAAA;IAAA,QAAA,KAAA,IAAA;IAAA,MAAA,KAAA;;AAEA,CATF,WASE;AACE,aAAA,WAAA;AACA,WAAA;;AAEF,CAAA;AACE,SAAA;AACA,UAAA;AACA,iBAAA;AACA,UAAA,IAAA,MAAA;AACA,cAAA,KAAA,GAAA,EAAA,GAAA,EAAA,GAAA,EAAA;AACA,WAAA;;AAEJ,CAAA;AACE,SAAA;AACA,UAAA;AACA,WAAA;AACA,QAAA,EAAA,EAAA;;AAEF,CAAA;AACE,aAAA;AACA,kBAAA;AACA,kBAAA;;",
+  "names": []
+}

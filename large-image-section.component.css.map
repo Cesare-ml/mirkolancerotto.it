@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/large-image-section/large-image-section.component.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.large-image-section\n  animation: largeImageSectionReveal 0.4s ease-out both\n\n.large-image-section__visual\n  background: linear-gradient(180deg, #f2e8dd, #fbf6ef)\n  box-shadow: var(--site-shadow-soft)\n\n.large-image-section__image\n  display: block\n  min-height: 26rem\n  object-fit: cover\n\n@keyframes largeImageSectionReveal\n  from\n    opacity: 0\n    transform: translateY(14px)\n  to\n    opacity: 1\n    transform: translateY(0)\n\n@media (prefers-reduced-motion: reduce)\n  .large-image-section\n    animation: none\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE,aAAA,wBAAA,KAAA,SAAA;;AAEF,CAAA;AACE;IAAA;MAAA,MAAA;MAAA,OAAA;MAAA;AACA,cAAA,IAAA;;AAEF,CAAA;AACE,WAAA;AACA,cAAA;AACA,cAAA;;AAEF,WAXE;AAYA;AACE,aAAA;AACA,eAAA,WAAA;;AACF;AACE,aAAA;AACA,eAAA,WAAA;;;AAEJ,OAAA,CAAA,sBAAA,EAAA;AACE,GArBF;AAsBI,eAAA;;;",
+  "names": []
+}

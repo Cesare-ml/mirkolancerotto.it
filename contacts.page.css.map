@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/pages/contacts/contacts.page.sass"],
+  "sourcesContent": [":host\n  display: block\n"],
+  "mappings": ";AAAA;AACE,WAAA;;",
+  "names": []
+}

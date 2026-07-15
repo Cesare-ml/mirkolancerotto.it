@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" fill="none">
+  <rect width="1200" height="1400" fill="#eadcca"/>
+  <rect x="96" y="96" width="1008" height="1208" rx="36" fill="#f7efe5"/>
+  <rect x="180" y="180" width="280" height="860" rx="24" fill="#d6bea0"/>
+  <rect x="520" y="180" width="496" height="320" rx="24" fill="#ccb08f"/>
+  <rect x="520" y="556" width="496" height="484" rx="24" fill="#e2cfb7"/>
+  <text x="150" y="1196" fill="#47392c" font-family="Georgia, serif" font-size="34">RESEARCH PLACEHOLDER</text>
+  <text x="150" y="1240" fill="#7d6955" font-family="Arial, sans-serif" font-size="22">studio / brushes / canvases / natural light</text>
+</svg>

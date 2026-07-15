@@ -1,0 +1,10 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#F3E8DA"/>
+  <rect x="140" y="120" width="1320" height="960" rx="56" fill="#FAF4ED"/>
+  <circle cx="1190" cy="330" r="180" fill="#E8D2B7" fill-opacity="0.7"/>
+  <circle cx="470" cy="820" r="220" fill="#D9B996" fill-opacity="0.45"/>
+  <path d="M350 760C470 610 650 480 860 430C1030 390 1170 440 1270 520" stroke="#9F7452" stroke-opacity="0.55" stroke-width="18" stroke-linecap="round"/>
+  <path d="M420 850C560 720 770 630 960 620C1080 613 1180 650 1260 710" stroke="#7F614A" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round"/>
+  <text x="220" y="290" fill="#2A211A" font-family="Georgia, serif" font-size="78">Home Manifesto</text>
+  <text x="220" y="356" fill="#6E5B4D" font-family="Arial, sans-serif" font-size="28" letter-spacing="6">PLACEHOLDER IMAGE</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#221A14"/>
+  <rect x="120" y="120" width="1360" height="960" rx="56" fill="#31261D"/>
+  <circle cx="420" cy="360" r="210" fill="#6F523B" fill-opacity="0.55"/>
+  <circle cx="1150" cy="820" r="250" fill="#A07954" fill-opacity="0.22"/>
+  <path d="M290 820C450 670 640 560 820 500C990 444 1130 450 1280 520" stroke="#F0D9BF" stroke-opacity="0.4" stroke-width="18" stroke-linecap="round"/>
+  <path d="M360 900C530 760 750 680 940 670C1070 663 1170 690 1260 740" stroke="#F0D9BF" stroke-opacity="0.22" stroke-width="10" stroke-linecap="round"/>
+  <text x="210" y="290" fill="#FFF5EA" font-family="Georgia, serif" font-size="78">Home Commissions</text>
+  <text x="210" y="356" fill="#D9C1A8" font-family="Arial, sans-serif" font-size="28" letter-spacing="6">PLACEHOLDER IMAGE</text>
+</svg>

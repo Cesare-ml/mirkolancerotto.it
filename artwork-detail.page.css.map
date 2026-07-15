@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/pages/artwork-detail/artwork-detail.page.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.artwork-detail-page\n  position: relative\n\n  &::before\n    content: \"\"\n    position: absolute\n    inset: 0 0 auto 0\n    height: 34rem\n    background: linear-gradient(180deg, rgba(232, 220, 203, 0.38), transparent)\n    pointer-events: none\n\n.artwork-detail-page__atf\n  position: relative\n  z-index: 0\n\n.artwork-detail-page__atf-layout\n  align-items: start\n\n  @media (min-width: 1024px)\n    justify-content: start\n    column-gap: 1rem\n    grid-template-columns: fit-content(54rem) minmax(22rem, 34rem)\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE,YAAA;;AAEA,CAHF,mBAGE;AACE,WAAA;AACA,YAAA;AACA,SAAA,EAAA,EAAA,KAAA;AACA,UAAA;AACA;IAAA;MAAA,MAAA;MAAA,KAAA,GAAA,EAAA,GAAA,EAAA,GAAA,EAAA,KAAA;MAAA;AACA,kBAAA;;AAEJ,CAAA;AACE,YAAA;AACA,WAAA;;AAEF,CAAA;AACE,eAAA;;AAEA,OAAA,CAAA,SAAA,EAAA;AAHF,GAAA;AAII,qBAAA;AACA,gBAAA;AACA,2BAAA,YAAA,OAAA,OAAA,KAAA,EAAA;;;",
+  "names": []
+}

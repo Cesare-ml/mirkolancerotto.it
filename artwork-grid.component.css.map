@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/components/artwork-grid/artwork-grid.component.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.artwork-grid--tight-top\n  padding-top: 1.75rem\n\n  @media (min-width: 640px)\n    padding-top: 2.25rem\n\n.artwork-grid__header\n  position: relative\n\n  &::before\n    content: \"\"\n    display: block\n    width: 3.5rem\n    height: 1px\n    margin-bottom: 1.25rem\n    background: rgba(32, 27, 22, 0.2)\n\n.artwork-grid__items--editorial\n  grid-template-columns: minmax(0, 1fr)\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE,eAAA;;AAEA,OAAA,CAAA,SAAA,EAAA;AAHF,GAAA;AAII,iBAAA;;;AAEJ,CAAA;AACE,YAAA;;AAEA,CAHF,oBAGE;AACE,WAAA;AACA,WAAA;AACA,SAAA;AACA,UAAA;AACA,iBAAA;AACA,cAAA,KAAA,EAAA,EAAA,EAAA,EAAA,EAAA,EAAA;;AAEJ,CAAA;AACE,yBAAA,OAAA,CAAA,EAAA;;",
+  "names": []
+}

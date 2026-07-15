@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/pages/about/about.page.sass"],
+  "sourcesContent": [":host\n  display: block\n\n.about-page\n  background: linear-gradient(180deg, rgba(255, 252, 248, 1) 0%, rgba(248, 242, 234, 0.62) 34%, rgba(255, 252, 248, 1) 100%)\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE;IAAA;MAAA,MAAA;MAAA,IAAA,GAAA,EAAA,GAAA,EAAA,KAAA,EAAA;MAAA,KAAA,GAAA,EAAA,GAAA,EAAA,GAAA,EAAA,MAAA,GAAA;MAAA,IAAA,GAAA,EAAA,GAAA,EAAA,KAAA;;",
+  "names": []
+}

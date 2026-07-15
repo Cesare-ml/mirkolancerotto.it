@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Saldo e spedizione placeholder</title>
+  <desc id="desc">Placeholder per la fase finale di saldo e spedizione della pagina commissioni.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7efe5"/>
+      <stop offset="100%" stop-color="#e7d7c6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="260" y="310" width="680" height="280" rx="34" fill="#fffaf4" opacity="0.76"/>
+  <rect x="340" y="240" width="180" height="120" rx="18" fill="#c79a74" opacity="0.34"/>
+  <path d="M360 470h480" stroke="#9a6f4f" stroke-width="14" stroke-linecap="round"/>
+  <path d="M360 530h320" stroke="#b58661" stroke-width="10" stroke-linecap="round"/>
+  <text x="90" y="790" fill="#6d4f39" font-family="Georgia, serif" font-size="42" letter-spacing="8">SOSTITUIRE CON IMMAGINE FASE 4</text>
+</svg>

@@ -1,9 +1,1917 @@
 [
   {
+    "id": 101,
+    "slug": "trinita-di-fichi-sole-nero",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Trinità di fichi - Sole Nero",
+      "en": "Trinità di fichi - Sole Nero"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 105,
+      "heightCm": 76,
+      "depthCm": 4
+    },
+    "price": {
+      "amount": 1915.2,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Trinità di fichi - Sole Nero di Mirko Lancerotto",
+          "en": "Trinità di fichi - Sole Nero by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/101/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/101/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/101/main-small.jpg",
+          "medium": "/assets/images/artworks/101/main-medium.jpg",
+          "large": "/assets/images/artworks/101/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Trinità di fichi - Sole Nero | Mirko Lancerotto",
+        "en": "Trinità di fichi - Sole Nero | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 99,
+    "slug": "pomodori",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Pomodori",
+      "en": "Pomodori"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 36,
+      "heightCm": 36,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 207.36,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Pomodori di Mirko Lancerotto",
+          "en": "Pomodori by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/99/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/99/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/99/main-small.jpg",
+          "medium": "/assets/images/artworks/99/main-medium.jpg",
+          "large": "/assets/images/artworks/99/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "frame",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/99/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/99/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/99/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/99/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/99/gallery-1-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Pomodori | Mirko Lancerotto",
+        "en": "Pomodori | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 98,
+    "slug": "banchetto-di-frutta",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Banchetto di frutta",
+      "en": "Banchetto di frutta"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Il dipinto e' stato fatto su una vecchia opera di un altro artista. L'opera era stata appesa nel saloto dei miei nonni per piu di 20 anni.",
+      "en": "Il dipinto e' stato fatto su una vecchia opera di un altro artista. L'opera era stata appesa nel saloto dei miei nonni per piu di 20 anni."
+    },
+    "dimensions": {
+      "widthCm": 120,
+      "heightCm": 60,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": 8259.84,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Banchetto di frutta di Mirko Lancerotto",
+          "en": "Banchetto di frutta by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/98/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/98/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/98/main-small.jpg",
+          "medium": "/assets/images/artworks/98/main-medium.jpg",
+          "large": "/assets/images/artworks/98/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/98/gallery-1-original.jpeg",
+            "thumbnail": "/assets/images/artworks/98/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/98/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/98/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/98/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/98/gallery-2-original.jpg",
+            "thumbnail": "/assets/images/artworks/98/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/98/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/98/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/98/gallery-2-large.jpg"
+          }
+        },
+        {
+          "type": "ambient",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/98/gallery-3-original.jpg",
+            "thumbnail": "/assets/images/artworks/98/gallery-3-thumbnail.jpg",
+            "small": "/assets/images/artworks/98/gallery-3-small.jpg",
+            "medium": "/assets/images/artworks/98/gallery-3-medium.jpg",
+            "large": "/assets/images/artworks/98/gallery-3-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Banchetto di frutta | Mirko Lancerotto",
+        "en": "Banchetto di frutta | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 97,
+    "slug": "fico-sole-nero",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Fico - Sole Nero",
+      "en": "Fico - Sole Nero"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 70,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": 672,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Fico - Sole Nero di Mirko Lancerotto",
+          "en": "Fico - Sole Nero by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/97/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/97/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/97/main-small.jpg",
+          "medium": "/assets/images/artworks/97/main-medium.jpg",
+          "large": "/assets/images/artworks/97/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "ambient",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/97/gallery-1-original.jpeg",
+            "thumbnail": "/assets/images/artworks/97/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/97/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/97/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/97/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/97/gallery-2-original.jpg",
+            "thumbnail": "/assets/images/artworks/97/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/97/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/97/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/97/gallery-2-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Fico - Sole Nero | Mirko Lancerotto",
+        "en": "Fico - Sole Nero | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 95,
+    "slug": "piede-creativo",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Piede creativo",
+      "en": "Piede creativo"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 24,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": 115.2,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Piede creativo di Mirko Lancerotto",
+          "en": "Piede creativo by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/95/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/95/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/95/main-small.jpg",
+          "medium": "/assets/images/artworks/95/main-medium.jpg",
+          "large": "/assets/images/artworks/95/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "ambient",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/95/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/95/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/95/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/95/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/95/gallery-1-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Piede creativo | Mirko Lancerotto",
+        "en": "Piede creativo | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 94,
+    "slug": "la-matrice-della-fragola",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "La Matrice della Fragola",
+      "en": "La Matrice della Fragola"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Puzzle",
+      "en": "Puzzle"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 66,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 528,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La Matrice della Fragola di Mirko Lancerotto",
+          "en": "La Matrice della Fragola by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/94/main-original.png",
+          "thumbnail": "/assets/images/artworks/94/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/94/main-small.jpg",
+          "medium": "/assets/images/artworks/94/main-medium.jpg",
+          "large": "/assets/images/artworks/94/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/94/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/94/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/94/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/94/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/94/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/94/gallery-2-original.png",
+            "thumbnail": "/assets/images/artworks/94/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/94/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/94/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/94/gallery-2-large.jpg"
+          }
+        },
+        {
+          "type": "ambient",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/94/gallery-3-original.png",
+            "thumbnail": "/assets/images/artworks/94/gallery-3-thumbnail.jpg",
+            "small": "/assets/images/artworks/94/gallery-3-small.jpg",
+            "medium": "/assets/images/artworks/94/gallery-3-medium.jpg",
+            "large": "/assets/images/artworks/94/gallery-3-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/94/gallery-4-original.jpg",
+            "thumbnail": "/assets/images/artworks/94/gallery-4-thumbnail.jpg",
+            "small": "/assets/images/artworks/94/gallery-4-small.jpg",
+            "medium": "/assets/images/artworks/94/gallery-4-medium.jpg",
+            "large": "/assets/images/artworks/94/gallery-4-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/94/gallery-5-original.jpg",
+            "thumbnail": "/assets/images/artworks/94/gallery-5-thumbnail.jpg",
+            "small": "/assets/images/artworks/94/gallery-5-small.jpg",
+            "medium": "/assets/images/artworks/94/gallery-5-medium.jpg",
+            "large": "/assets/images/artworks/94/gallery-5-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/94/gallery-6-original.png",
+            "thumbnail": "/assets/images/artworks/94/gallery-6-thumbnail.jpg",
+            "small": "/assets/images/artworks/94/gallery-6-small.jpg",
+            "medium": "/assets/images/artworks/94/gallery-6-medium.jpg",
+            "large": "/assets/images/artworks/94/gallery-6-large.jpg"
+          }
+        },
+        {
+          "type": "ambient",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/94/gallery-7-original.jpg",
+            "thumbnail": "/assets/images/artworks/94/gallery-7-thumbnail.jpg",
+            "small": "/assets/images/artworks/94/gallery-7-small.jpg",
+            "medium": "/assets/images/artworks/94/gallery-7-medium.jpg",
+            "large": "/assets/images/artworks/94/gallery-7-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La Matrice della Fragola | Mirko Lancerotto",
+        "en": "La Matrice della Fragola | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 92,
+    "slug": "ciliegie",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Ciliegie",
+      "en": "Ciliegie"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 40,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 230.4,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Ciliegie di Mirko Lancerotto",
+          "en": "Ciliegie by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/92/main-original.png",
+          "thumbnail": "/assets/images/artworks/92/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/92/main-small.jpg",
+          "medium": "/assets/images/artworks/92/main-medium.jpg",
+          "large": "/assets/images/artworks/92/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/92/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/92/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/92/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/92/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/92/gallery-1-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Ciliegie | Mirko Lancerotto",
+        "en": "Ciliegie | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 91,
+    "slug": "ingresso-all-artificio",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Ingresso all'Artificio",
+      "en": "Ingresso all'Artificio"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 70,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": 560,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Ingresso all'Artificio di Mirko Lancerotto",
+          "en": "Ingresso all'Artificio by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/91/main-original.png",
+          "thumbnail": "/assets/images/artworks/91/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/91/main-small.jpg",
+          "medium": "/assets/images/artworks/91/main-medium.jpg",
+          "large": "/assets/images/artworks/91/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "detail",
+          "description": {
+            "it": "firma",
+            "en": "firma"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/91/gallery-1-original.png",
+            "thumbnail": "/assets/images/artworks/91/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/91/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/91/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/91/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "banane",
+            "en": "banane"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/91/gallery-2-original.png",
+            "thumbnail": "/assets/images/artworks/91/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/91/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/91/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/91/gallery-2-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "corvi",
+            "en": "corvi"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/91/gallery-3-original.png",
+            "thumbnail": "/assets/images/artworks/91/gallery-3-thumbnail.jpg",
+            "small": "/assets/images/artworks/91/gallery-3-small.jpg",
+            "medium": "/assets/images/artworks/91/gallery-3-medium.jpg",
+            "large": "/assets/images/artworks/91/gallery-3-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/91/gallery-4-original.jpg",
+            "thumbnail": "/assets/images/artworks/91/gallery-4-thumbnail.jpg",
+            "small": "/assets/images/artworks/91/gallery-4-small.jpg",
+            "medium": "/assets/images/artworks/91/gallery-4-medium.jpg",
+            "large": "/assets/images/artworks/91/gallery-4-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/91/gallery-5-original.jpg",
+            "thumbnail": "/assets/images/artworks/91/gallery-5-thumbnail.jpg",
+            "small": "/assets/images/artworks/91/gallery-5-small.jpg",
+            "medium": "/assets/images/artworks/91/gallery-5-medium.jpg",
+            "large": "/assets/images/artworks/91/gallery-5-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Ingresso all'Artificio | Mirko Lancerotto",
+        "en": "Ingresso all'Artificio | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 90,
+    "slug": "il-ritorno-del-cristo",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Il ritorno del Cristo",
+      "en": "Il ritorno del Cristo"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 195,
+      "heightCm": 120,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 4492.8,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Il ritorno del Cristo di Mirko Lancerotto",
+          "en": "Il ritorno del Cristo by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/90/main-original.png",
+          "thumbnail": "/assets/images/artworks/90/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/90/main-small.jpg",
+          "medium": "/assets/images/artworks/90/main-medium.jpg",
+          "large": "/assets/images/artworks/90/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-2-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-2-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-3-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-3-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-3-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-3-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-3-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-4-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-4-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-4-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-4-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-4-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-5-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-5-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-5-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-5-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-5-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "Appena finito",
+            "en": "Appena finito"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-6-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-6-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-6-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-6-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-6-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-7-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-7-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-7-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-7-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-7-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-8-original.png",
+            "thumbnail": "/assets/images/artworks/90/gallery-8-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-8-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-8-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-8-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-9-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-9-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-9-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-9-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-9-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-10-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-10-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-10-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-10-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-10-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-11-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-11-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-11-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-11-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-11-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/90/gallery-12-original.jpg",
+            "thumbnail": "/assets/images/artworks/90/gallery-12-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/gallery-12-small.jpg",
+            "medium": "/assets/images/artworks/90/gallery-12-medium.jpg",
+            "large": "/assets/images/artworks/90/gallery-12-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Il ritorno del Cristo | Mirko Lancerotto",
+        "en": "Il ritorno del Cristo | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 89,
+    "slug": "ciliegie-con-campana-tibetana",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Ciliegie con campana tibetana",
+      "en": "Ciliegie con campana tibetana"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 40,
+      "heightCm": 40,
+      "depthCm": 2
+    },
+    "price": {
+      "amount": 256,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Ciliegie con campana tibetana di Mirko Lancerotto",
+          "en": "Ciliegie con campana tibetana by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/89/main-original.png",
+          "thumbnail": "/assets/images/artworks/89/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/89/main-small.jpg",
+          "medium": "/assets/images/artworks/89/main-medium.jpg",
+          "large": "/assets/images/artworks/89/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/89/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/89/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/89/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/89/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/89/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/89/gallery-2-original.jpg",
+            "thumbnail": "/assets/images/artworks/89/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/89/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/89/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/89/gallery-2-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/89/gallery-3-original.jpg",
+            "thumbnail": "/assets/images/artworks/89/gallery-3-thumbnail.jpg",
+            "small": "/assets/images/artworks/89/gallery-3-small.jpg",
+            "medium": "/assets/images/artworks/89/gallery-3-medium.jpg",
+            "large": "/assets/images/artworks/89/gallery-3-large.jpg"
+          }
+        },
+        {
+          "type": "studio",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/89/gallery-4-original.jpeg",
+            "thumbnail": "/assets/images/artworks/89/gallery-4-thumbnail.jpg",
+            "small": "/assets/images/artworks/89/gallery-4-small.jpg",
+            "medium": "/assets/images/artworks/89/gallery-4-medium.jpg",
+            "large": "/assets/images/artworks/89/gallery-4-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Ciliegie con campana tibetana | Mirko Lancerotto",
+        "en": "Ciliegie con campana tibetana | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 88,
+    "slug": "occhi-del-maestro-yogananda",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Occhi del Maestro Yogananda",
+      "en": "Occhi del Maestro Yogananda"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 20,
+      "heightCm": 15,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 57.6,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Occhi del Maestro Yogananda di Mirko Lancerotto",
+          "en": "Occhi del Maestro Yogananda by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/88/main-original.png",
+          "thumbnail": "/assets/images/artworks/88/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/88/main-small.jpg",
+          "medium": "/assets/images/artworks/88/main-medium.jpg",
+          "large": "/assets/images/artworks/88/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "detail",
+          "description": {
+            "it": "firma",
+            "en": "firma"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/88/gallery-1-original.png",
+            "thumbnail": "/assets/images/artworks/88/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/88/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/88/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/88/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "texture materica",
+            "en": "texture materica"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/88/gallery-2-original.png",
+            "thumbnail": "/assets/images/artworks/88/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/88/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/88/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/88/gallery-2-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Occhi del Maestro Yogananda | Mirko Lancerotto",
+        "en": "Occhi del Maestro Yogananda | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 87,
+    "slug": "limone",
+    "type": "painting",
+    "status": "available",
+    "title": {
+      "it": "Limone",
+      "en": "Limone"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 40,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 307.2,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Limone di Mirko Lancerotto",
+          "en": "Limone by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/87/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/87/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/87/main-small.jpg",
+          "medium": "/assets/images/artworks/87/main-medium.jpg",
+          "large": "/assets/images/artworks/87/main-large.jpg"
+        }
+      },
+      "gallery": []
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Limone | Mirko Lancerotto",
+        "en": "Limone | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 86,
+    "slug": "papaya",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Papaya",
+      "en": "Papaya"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Tela",
+      "en": "Tela"
+    },
+    "dimensions": {
+      "widthCm": 40,
+      "heightCm": 30,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 230.4,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Papaya di Mirko Lancerotto",
+          "en": "Papaya by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/86/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/86/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/86/main-small.jpg",
+          "medium": "/assets/images/artworks/86/main-medium.jpg",
+          "large": "/assets/images/artworks/86/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "frame",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/86/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/86/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/86/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/86/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/86/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "Firma",
+            "en": "Firma"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/86/gallery-2-original.jpg",
+            "thumbnail": "/assets/images/artworks/86/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/86/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/86/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/86/gallery-2-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Papaya | Mirko Lancerotto",
+        "en": "Papaya | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 85,
+    "slug": "banana",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Banana",
+      "en": "Banana"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 40,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 230.4,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Banana di Mirko Lancerotto",
+          "en": "Banana by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/85/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/85/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/85/main-small.jpg",
+          "medium": "/assets/images/artworks/85/main-medium.jpg",
+          "large": "/assets/images/artworks/85/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "frame",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/85/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/85/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/85/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/85/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/85/gallery-1-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Banana | Mirko Lancerotto",
+        "en": "Banana | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 84,
+    "slug": "mango",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "Mango",
+      "en": "Mango"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2026,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Carta",
+      "en": "Carta"
+    },
+    "dimensions": {
+      "widthCm": 40,
+      "heightCm": 30,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 230.4,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "none",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "",
+        "en": ""
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "Mango di Mirko Lancerotto",
+          "en": "Mango by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/84/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/84/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/84/main-small.jpg",
+          "medium": "/assets/images/artworks/84/main-medium.jpg",
+          "large": "/assets/images/artworks/84/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "detail",
+          "description": {
+            "it": "Firma",
+            "en": "Firma"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/84/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/84/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/84/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/84/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/84/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "frame",
+          "description": {
+            "it": "Opera incorniciata",
+            "en": "Opera incorniciata"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/84/gallery-2-original.jpg",
+            "thumbnail": "/assets/images/artworks/84/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/84/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/84/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/84/gallery-2-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "Mango | Mirko Lancerotto",
+        "en": "Mango | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2026.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2026."
+      }
+    }
+  },
+  {
+    "id": 93,
+    "slug": "la-nascita-del-tao",
+    "type": "painting",
+    "status": "sold",
+    "title": {
+      "it": "La nascita del Tao",
+      "en": "La nascita del Tao"
+    },
+    "subtitle": {
+      "it": "",
+      "en": ""
+    },
+    "year": 2025,
+    "technique": {
+      "it": "Tecnica mista e olio",
+      "en": "Tecnica mista e olio"
+    },
+    "support": {
+      "it": "Anta di un mobile ereditato alla morte di mio nonno",
+      "en": "Anta di un mobile ereditato alla morte di mio nonno"
+    },
+    "dimensions": {
+      "widthCm": 58,
+      "heightCm": 95,
+      "depthCm": null
+    },
+    "price": {
+      "amount": 881.6,
+      "currency": "EUR",
+      "visible": true
+    },
+    "texts": {
+      "visibleMode": "poetic",
+      "description": {
+        "it": "",
+        "en": ""
+      },
+      "poetic": {
+        "it": "Dove c’è un gesto di gentilezza l’universo accende una piccola luce che illumina la terra.\nSe tu potessi guardarla dall’alto noteresti piccoli puntini di luce proprio dove l’essere umano posa un gesto gentile.\nOgni puntino che si accende illumina la terra.\nE la ripulisce alzandone le vibrazioni. \nOgni pensiero puro che fai, ogni sorriso che regali, ogni azione delicata è una spinta per tutta l’umanità.\nLá dove c’è un’azione di amore incondizionato si aprono canali di luce che scendono ad illuminare il pianeta.\nOgni volta che ringrazi per quello che hai, ogni volta che guardi tuo figlio negli occhi con amore, ogni volta che accarezzi nel cuore la tua mamma e il tuo papà, ogni volta che fai il tifo per il successo di qualcuno, ogni volta che stringi a te il tuo cane un canale di luce compare intorno a te.\nÈ tempo di gesti gentili. Anche verso se stessi.\nPossiamo ancora fare la differenza per Madre Terra. A partire da oggi.\nA partire dallo sguardo che regalerai a chi oggi incontri sul tuo cammino.\nA partire dall’amore che sarai capace di posare sul tuo dolore.\nInsieme possiamo cambiare il destino del pianeta. \nSe potessi vedere quanto sono belli i punti di luce che si accendono sulla terra usciresti ad abbracciare chiunque e sorrideresti senza motivo.",
+        "en": "Dove c’è un gesto di gentilezza l’universo accende una piccola luce che illumina la terra.\nSe tu potessi guardarla dall’alto noteresti piccoli puntini di luce proprio dove l’essere umano posa un gesto gentile.\nOgni puntino che si accende illumina la terra.\nE la ripulisce alzandone le vibrazioni. \nOgni pensiero puro che fai, ogni sorriso che regali, ogni azione delicata è una spinta per tutta l’umanità.\nLá dove c’è un’azione di amore incondizionato si aprono canali di luce che scendono ad illuminare il pianeta.\nOgni volta che ringrazi per quello che hai, ogni volta che guardi tuo figlio negli occhi con amore, ogni volta che accarezzi nel cuore la tua mamma e il tuo papà, ogni volta che fai il tifo per il successo di qualcuno, ogni volta che stringi a te il tuo cane un canale di luce compare intorno a te.\nÈ tempo di gesti gentili. Anche verso se stessi.\nPossiamo ancora fare la differenza per Madre Terra. A partire da oggi.\nA partire dallo sguardo che regalerai a chi oggi incontri sul tuo cammino.\nA partire dall’amore che sarai capace di posare sul tuo dolore.\nInsieme possiamo cambiare il destino del pianeta. \nSe potessi vedere quanto sono belli i punti di luce che si accendono sulla terra usciresti ad abbracciare chiunque e sorrideresti senza motivo."
+      }
+    },
+    "images": {
+      "main": {
+        "alt": {
+          "it": "La nascita del Tao di Mirko Lancerotto",
+          "en": "La nascita del Tao by Mirko Lancerotto"
+        },
+        "sources": {
+          "original": "/assets/images/artworks/93/main-original.jpg",
+          "thumbnail": "/assets/images/artworks/93/main-thumbnail.jpg",
+          "small": "/assets/images/artworks/93/main-small.jpg",
+          "medium": "/assets/images/artworks/93/main-medium.jpg",
+          "large": "/assets/images/artworks/93/main-large.jpg"
+        }
+      },
+      "gallery": [
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-1-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-1-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-1-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-1-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-1-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-2-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-2-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-2-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-2-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-2-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-3-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-3-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-3-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-3-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-3-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-4-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-4-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-4-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-4-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-4-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-5-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-5-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-5-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-5-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-5-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-6-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-6-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-6-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-6-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-6-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-7-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-7-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-7-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-7-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-7-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-8-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-8-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-8-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-8-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-8-large.jpg"
+          }
+        },
+        {
+          "type": "detail",
+          "description": {
+            "it": "",
+            "en": ""
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-9-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-9-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-9-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-9-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-9-large.jpg"
+          }
+        },
+        {
+          "type": "ambient",
+          "description": {
+            "it": "Pronta per la spedizione",
+            "en": "Pronta per la spedizione"
+          },
+          "sources": {
+            "original": "/assets/images/artworks/93/gallery-10-original.jpg",
+            "thumbnail": "/assets/images/artworks/93/gallery-10-thumbnail.jpg",
+            "small": "/assets/images/artworks/93/gallery-10-small.jpg",
+            "medium": "/assets/images/artworks/93/gallery-10-medium.jpg",
+            "large": "/assets/images/artworks/93/gallery-10-large.jpg"
+          }
+        }
+      ]
+    },
+    "video": null,
+    "tags": [],
+    "seo": {
+      "title": {
+        "it": "La nascita del Tao | Mirko Lancerotto",
+        "en": "La nascita del Tao | Mirko Lancerotto"
+      },
+      "description": {
+        "it": "Opera venduta di Mirko Lancerotto, Tecnica mista e olio, 2025.",
+        "en": "Sold artwork by Mirko Lancerotto, Tecnica mista e olio, 2025."
+      }
+    }
+  },
+  {
     "id": 70,
     "slug": "guru-guru-guru",
     "type": "painting",
-    "status": "not_available",
+    "status": "available",
     "title": {
       "it": "Guru, Guru, Guru!",
       "en": "Guru, Guru, Guru!"
@@ -27,9 +1935,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 619.36,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -66,8 +1974,8 @@
         "en": "Guru, Guru, Guru! | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2023.",
-        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2023."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2023.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2023."
       }
     }
   },
@@ -75,7 +1983,7 @@
     "id": 72,
     "slug": "carolina",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Carolina",
       "en": "Carolina"
@@ -99,9 +2007,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 201.6,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -138,8 +2046,8 @@
         "en": "Carolina | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Acrilico, 2022.",
-        "en": "Private collection artwork by Mirko Lancerotto, Acrilico, 2022."
+        "it": "Opera disponibile di Mirko Lancerotto, Acrilico, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Acrilico, 2022."
       }
     }
   },
@@ -171,9 +2079,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 280,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -219,7 +2127,7 @@
     "id": 68,
     "slug": "cavallo",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Cavallo",
       "en": "Cavallo"
@@ -243,9 +2151,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 259.2,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -282,8 +2190,8 @@
         "en": "Cavallo | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
-        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
       }
     }
   },
@@ -291,7 +2199,7 @@
     "id": 67,
     "slug": "elefanti",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Elefanti",
       "en": "Elefanti"
@@ -315,9 +2223,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 480,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -354,8 +2262,8 @@
         "en": "Elefanti | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
-        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
       }
     }
   },
@@ -363,7 +2271,7 @@
     "id": 66,
     "slug": "cervo",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Cervo",
       "en": "Cervo"
@@ -387,9 +2295,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 291.2,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -426,8 +2334,8 @@
         "en": "Cervo | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
-        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
       }
     }
   },
@@ -435,7 +2343,7 @@
     "id": 65,
     "slug": "buddha",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Buddha",
       "en": "Buddha"
@@ -459,9 +2367,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 299.52,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -498,8 +2406,8 @@
         "en": "Buddha | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2022.",
-        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
       }
     }
   },
@@ -507,7 +2415,7 @@
     "id": 64,
     "slug": "il-trionfo-di-vega",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Il Trionfo di Vega",
       "en": "Il Trionfo di Vega"
@@ -531,9 +2439,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 140,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -570,8 +2478,8 @@
         "en": "Il Trionfo di Vega | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Acrilico, 2022.",
-        "en": "Private collection artwork by Mirko Lancerotto, Acrilico, 2022."
+        "it": "Opera disponibile di Mirko Lancerotto, Acrilico, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Acrilico, 2022."
       }
     }
   },
@@ -579,7 +2487,7 @@
     "id": 63,
     "slug": "saluto-al-sole",
     "type": "painting",
-    "status": "not_available",
+    "status": "available",
     "title": {
       "it": "Saluto al Sole",
       "en": "Saluto al Sole"
@@ -603,9 +2511,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 256,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -642,8 +2550,8 @@
         "en": "Saluto al Sole | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
-        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2022.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2022."
       }
     }
   },
@@ -675,9 +2583,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 466.56,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -747,9 +2655,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 511.2,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -794,7 +2702,7 @@
   {
     "id": 37,
     "slug": "ancella-della-luna",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Ancella della Luna",
@@ -819,9 +2727,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 520,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -891,9 +2799,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 506.88,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -963,9 +2871,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 343.2,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1035,9 +2943,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 1260,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1082,7 +2990,7 @@
   {
     "id": 81,
     "slug": "2-marilu",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "2 - Marilù",
@@ -1107,9 +3015,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 84,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1154,7 +3062,7 @@
   {
     "id": 80,
     "slug": "marilu",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Marilù",
@@ -1179,9 +3087,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 84,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1226,7 +3134,7 @@
   {
     "id": 79,
     "slug": "autunno",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Autunno",
@@ -1251,9 +3159,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 84,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1298,7 +3206,7 @@
   {
     "id": 78,
     "slug": "architetture-di-fuoco",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Architetture di fuoco",
@@ -1323,9 +3231,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 100.8,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1370,7 +3278,7 @@
   {
     "id": 77,
     "slug": "fuoco-nella-notte",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Fuoco nella notte",
@@ -1395,9 +3303,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 100.8,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1442,7 +3350,7 @@
   {
     "id": 76,
     "slug": "entita-spirituale",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Entita' spirituale",
@@ -1467,9 +3375,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 100.8,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1514,7 +3422,7 @@
   {
     "id": 69,
     "slug": "pensieri-di-fuoco",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Pensieri di fuoco",
@@ -1539,9 +3447,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 399.04,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1611,9 +3519,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 1228.8,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1683,9 +3591,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 1408,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1755,9 +3663,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 601.6,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1827,9 +3735,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1899,9 +3807,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 140,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -1971,9 +3879,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 115.2,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2043,9 +3951,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 368.64,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2115,9 +4023,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 144,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2187,9 +4095,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 1515.52,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2234,7 +4142,7 @@
   {
     "id": 30,
     "slug": "giancarlo-riposa",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Giancarlo riposa",
@@ -2259,9 +4167,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 264,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2331,9 +4239,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 282.24,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2403,9 +4311,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 576,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2475,9 +4383,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 84,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2547,9 +4455,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 880,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2619,9 +4527,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 480,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2691,9 +4599,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 134.56,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2738,7 +4646,7 @@
   {
     "id": 14,
     "slug": "l-abbraccio-redentore",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "L'Abbraccio Redentore",
@@ -2763,9 +4671,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 368.64,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2810,7 +4718,7 @@
   {
     "id": 10,
     "slug": "misteri",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Misteri",
@@ -2835,9 +4743,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 84,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2882,8 +4790,8 @@
   {
     "id": 9,
     "slug": "i-sublimi-sapori-dello-chef-di-saturno-bozzetto",
-    "type": "work_on_paper",
-    "status": "not_available",
+    "type": "painting",
+    "status": "available",
     "title": {
       "it": "I Sublimi Sapori dello Chef di Saturno - Bozzetto",
       "en": "I Sublimi Sapori dello Chef di Saturno - Bozzetto"
@@ -2907,9 +4815,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 84,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -2946,8 +4854,8 @@
         "en": "I Sublimi Sapori dello Chef di Saturno - Bozzetto | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
-        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
       }
     }
   },
@@ -2955,7 +4863,7 @@
     "id": 7,
     "slug": "iniziazione",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Iniziazione",
       "en": "Iniziazione"
@@ -2979,9 +4887,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3018,8 +4926,8 @@
         "en": "Iniziazione | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Tecnica mista e olio, 2021.",
-        "en": "Private collection artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
       }
     }
   },
@@ -3027,7 +4935,7 @@
     "id": 4,
     "slug": "la-danza-di-magdalena",
     "type": "painting",
-    "status": "not_available",
+    "status": "available",
     "title": {
       "it": "La Danza di Magdalena",
       "en": "La Danza di Magdalena"
@@ -3051,9 +4959,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 864,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3090,8 +4998,8 @@
         "en": "La Danza di Magdalena | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera non disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
-        "en": "Not available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
+        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2021.",
+        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2021."
       }
     }
   },
@@ -3123,9 +5031,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 320.96,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3195,9 +5103,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 784,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3243,7 +5151,7 @@
     "id": 62,
     "slug": "gatto",
     "type": "painting",
-    "status": "not_available",
+    "status": "available",
     "title": {
       "it": "Gatto",
       "en": "Gatto"
@@ -3267,9 +5175,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3306,8 +5214,8 @@
         "en": "Gatto | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera non disponibile di Mirko Lancerotto, Olio, 2020.",
-        "en": "Not available artwork by Mirko Lancerotto, Olio, 2020."
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
       }
     }
   },
@@ -3339,9 +5247,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 192,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3387,7 +5295,7 @@
     "id": 60,
     "slug": "pesci",
     "type": "painting",
-    "status": "not_available",
+    "status": "available",
     "title": {
       "it": "Pesci",
       "en": "Pesci"
@@ -3411,9 +5319,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3450,8 +5358,8 @@
         "en": "Pesci | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera non disponibile di Mirko Lancerotto, Olio, 2020.",
-        "en": "Not available artwork by Mirko Lancerotto, Olio, 2020."
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
       }
     }
   },
@@ -3483,9 +5391,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 320,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3531,7 +5439,7 @@
     "id": 58,
     "slug": "alberi-in-cammino",
     "type": "painting",
-    "status": "not_available",
+    "status": "available",
     "title": {
       "it": "Alberi in cammino",
       "en": "Alberi in cammino"
@@ -3555,9 +5463,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3594,8 +5502,8 @@
         "en": "Alberi in cammino | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera non disponibile di Mirko Lancerotto, Olio, 2020.",
-        "en": "Not available artwork by Mirko Lancerotto, Olio, 2020."
+        "it": "Opera disponibile di Mirko Lancerotto, Olio, 2020.",
+        "en": "Available artwork by Mirko Lancerotto, Olio, 2020."
       }
     }
   },
@@ -3627,9 +5535,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3699,9 +5607,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3771,9 +5679,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 192,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3843,9 +5751,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 96,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3915,9 +5823,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 80,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -3987,9 +5895,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 80,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4034,7 +5942,7 @@
   {
     "id": 49,
     "slug": "chi-sono-io",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Chi sono Io?",
@@ -4059,9 +5967,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 100.8,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4104,150 +6012,6 @@
     }
   },
   {
-    "id": 46,
-    "slug": "trasmutazione-alchemica-2",
-    "type": "work_on_paper",
-    "status": "available",
-    "title": {
-      "it": "Trasmutazione alchemica 2",
-      "en": "Trasmutazione alchemica 2"
-    },
-    "subtitle": {
-      "it": "",
-      "en": ""
-    },
-    "year": 2020,
-    "technique": {
-      "it": "Tecnica mista e olio",
-      "en": "Tecnica mista e olio"
-    },
-    "support": {
-      "it": "Carta",
-      "en": "Carta"
-    },
-    "dimensions": {
-      "widthCm": 56,
-      "heightCm": 76,
-      "depthCm": null
-    },
-    "price": {
-      "amount": null,
-      "currency": "EUR",
-      "visible": false
-    },
-    "texts": {
-      "visibleMode": "none",
-      "description": {
-        "it": "",
-        "en": ""
-      },
-      "poetic": {
-        "it": "",
-        "en": ""
-      }
-    },
-    "images": {
-      "main": {
-        "alt": {
-          "it": "Trasmutazione alchemica 2 di Mirko Lancerotto",
-          "en": "Trasmutazione alchemica 2 by Mirko Lancerotto"
-        },
-        "sources": {
-          "original": "/assets/images/artworks/46/main-original.png",
-          "thumbnail": "/assets/images/artworks/46/main-thumbnail.jpg",
-          "small": "/assets/images/artworks/46/main-small.jpg",
-          "medium": "/assets/images/artworks/46/main-medium.jpg",
-          "large": "/assets/images/artworks/46/main-large.jpg"
-        }
-      },
-      "gallery": []
-    },
-    "video": null,
-    "tags": [],
-    "seo": {
-      "title": {
-        "it": "Trasmutazione alchemica 2 | Mirko Lancerotto",
-        "en": "Trasmutazione alchemica 2 | Mirko Lancerotto"
-      },
-      "description": {
-        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
-        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
-      }
-    }
-  },
-  {
-    "id": 45,
-    "slug": "trasmutazione-alchemica",
-    "type": "work_on_paper",
-    "status": "available",
-    "title": {
-      "it": "Trasmutazione alchemica",
-      "en": "Trasmutazione alchemica"
-    },
-    "subtitle": {
-      "it": "",
-      "en": ""
-    },
-    "year": 2020,
-    "technique": {
-      "it": "Tecnica mista e olio",
-      "en": "Tecnica mista e olio"
-    },
-    "support": {
-      "it": "Carta",
-      "en": "Carta"
-    },
-    "dimensions": {
-      "widthCm": 56,
-      "heightCm": 76,
-      "depthCm": null
-    },
-    "price": {
-      "amount": null,
-      "currency": "EUR",
-      "visible": false
-    },
-    "texts": {
-      "visibleMode": "none",
-      "description": {
-        "it": "",
-        "en": ""
-      },
-      "poetic": {
-        "it": "",
-        "en": ""
-      }
-    },
-    "images": {
-      "main": {
-        "alt": {
-          "it": "Trasmutazione alchemica di Mirko Lancerotto",
-          "en": "Trasmutazione alchemica by Mirko Lancerotto"
-        },
-        "sources": {
-          "original": "/assets/images/artworks/45/main-original.png",
-          "thumbnail": "/assets/images/artworks/45/main-thumbnail.jpg",
-          "small": "/assets/images/artworks/45/main-small.jpg",
-          "medium": "/assets/images/artworks/45/main-medium.jpg",
-          "large": "/assets/images/artworks/45/main-large.jpg"
-        }
-      },
-      "gallery": []
-    },
-    "video": null,
-    "tags": [],
-    "seo": {
-      "title": {
-        "it": "Trasmutazione alchemica | Mirko Lancerotto",
-        "en": "Trasmutazione alchemica | Mirko Lancerotto"
-      },
-      "description": {
-        "it": "Opera disponibile di Mirko Lancerotto, Tecnica mista e olio, 2020.",
-        "en": "Available artwork by Mirko Lancerotto, Tecnica mista e olio, 2020."
-      }
-    }
-  },
-  {
     "id": 42,
     "slug": "amiche-del-cuore",
     "type": "painting",
@@ -4275,9 +6039,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 320,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4347,9 +6111,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 560,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4394,7 +6158,7 @@
   {
     "id": 33,
     "slug": "ghiaccio-nello-spazio",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Ghiaccio nello Spazio",
@@ -4419,9 +6183,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 607.36,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4466,7 +6230,7 @@
   {
     "id": 32,
     "slug": "mano-di-luce",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Mano di luce",
@@ -4491,9 +6255,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 522.24,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4538,7 +6302,7 @@
   {
     "id": 31,
     "slug": "autoritratto-2",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Autoritratto",
@@ -4563,9 +6327,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 520,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4635,9 +6399,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 576,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4682,7 +6446,7 @@
   {
     "id": 20,
     "slug": "maremoti-interiori",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Maremoti Interiori",
@@ -4707,9 +6471,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 520,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4779,9 +6543,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 768,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4826,7 +6590,7 @@
   {
     "id": 16,
     "slug": "mio-nonno-mi-rivede-dopo-la-morte-di-mia-zia",
-    "type": "drawing",
+    "type": "work_on_paper",
     "status": "available",
     "title": {
       "it": "Mio nonno mi rivede dopo la morte di mia zia",
@@ -4851,9 +6615,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4923,9 +6687,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 192,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -4970,7 +6734,7 @@
   {
     "id": 12,
     "slug": "sulla-via-della-luce",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Sulla via della Luce",
@@ -4995,9 +6759,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 522.24,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5067,9 +6831,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 1920,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5139,9 +6903,9 @@
       "depthCm": 4
     },
     "price": {
-      "amount": null,
+      "amount": 864,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5211,9 +6975,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 96,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5283,9 +7047,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 1344,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5328,81 +7092,9 @@
     }
   },
   {
-    "id": 75,
-    "slug": "tommy",
-    "type": "drawing",
-    "status": "available",
-    "title": {
-      "it": "Tommy",
-      "en": "Tommy"
-    },
-    "subtitle": {
-      "it": "",
-      "en": ""
-    },
-    "year": 2019,
-    "technique": {
-      "it": "Acquerello e matita",
-      "en": "Acquerello e matita"
-    },
-    "support": {
-      "it": "Carta",
-      "en": "Carta"
-    },
-    "dimensions": {
-      "widthCm": 30,
-      "heightCm": 21,
-      "depthCm": null
-    },
-    "price": {
-      "amount": null,
-      "currency": "EUR",
-      "visible": false
-    },
-    "texts": {
-      "visibleMode": "none",
-      "description": {
-        "it": "",
-        "en": ""
-      },
-      "poetic": {
-        "it": "",
-        "en": ""
-      }
-    },
-    "images": {
-      "main": {
-        "alt": {
-          "it": "Tommy di Mirko Lancerotto",
-          "en": "Tommy by Mirko Lancerotto"
-        },
-        "sources": {
-          "original": "/assets/images/artworks/75/main-original.jpeg",
-          "thumbnail": "/assets/images/artworks/75/main-thumbnail.jpg",
-          "small": "/assets/images/artworks/75/main-small.jpg",
-          "medium": "/assets/images/artworks/75/main-medium.jpg",
-          "large": "/assets/images/artworks/75/main-large.jpg"
-        }
-      },
-      "gallery": []
-    },
-    "video": null,
-    "tags": [],
-    "seo": {
-      "title": {
-        "it": "Tommy | Mirko Lancerotto",
-        "en": "Tommy | Mirko Lancerotto"
-      },
-      "description": {
-        "it": "Opera disponibile di Mirko Lancerotto, Acquerello e matita, 2019.",
-        "en": "Available artwork by Mirko Lancerotto, Acquerello e matita, 2019."
-      }
-    }
-  },
-  {
     "id": 74,
     "slug": "cascata-di-lava",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Cascata di lava",
@@ -5427,9 +7119,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 100.8,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5474,7 +7166,7 @@
   {
     "id": 73,
     "slug": "lago",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Lago",
@@ -5499,9 +7191,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 100.8,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5546,7 +7238,7 @@
   {
     "id": 22,
     "slug": "delfino-che-si-riposa-sul-fondale",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Delfino che si riposa sul fondale",
@@ -5571,9 +7263,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 96,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5618,7 +7310,7 @@
   {
     "id": 19,
     "slug": "pubblico-alla-performance-sessantesimo-compleanno-di-david-zambrano",
-    "type": "work_on_paper",
+    "type": "painting",
     "status": "available",
     "title": {
       "it": "Pubblico alla Performance: Sessantesimo compleanno di David Zambrano",
@@ -5643,9 +7335,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 982.08,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5715,9 +7407,9 @@
       "depthCm": 2
     },
     "price": {
-      "amount": null,
+      "amount": 320,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5763,7 +7455,7 @@
     "id": 11,
     "slug": "cicli-dell-infinito",
     "type": "painting",
-    "status": "private_collection",
+    "status": "available",
     "title": {
       "it": "Cicli dell'infinito",
       "en": "Cicli dell'infinito"
@@ -5787,9 +7479,9 @@
       "depthCm": null
     },
     "price": {
-      "amount": null,
+      "amount": 69.12,
       "currency": "EUR",
-      "visible": false
+      "visible": true
     },
     "texts": {
       "visibleMode": "none",
@@ -5826,8 +7518,8 @@
         "en": "Cicli dell'infinito | Mirko Lancerotto"
       },
       "description": {
-        "it": "Opera in collezione privata di Mirko Lancerotto, Acrilico, 2018.",
-        "en": "Private collection artwork by Mirko Lancerotto, Acrilico, 2018."
+        "it": "Opera disponibile di Mirko Lancerotto, Acrilico, 2018.",
+        "en": "Available artwork by Mirko Lancerotto, Acrilico, 2018."
       }
     }
   }

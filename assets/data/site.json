@@ -3,36 +3,51 @@
   "defaultLanguage": "it",
   "domain": "https://mirkolancerotto.it",
   "claim": {
-    "it": "La pittura come via interiore",
-    "en": "Painting as a spiritual path"
+    "it": "",
+    "en": ""
   },
-  "email": "info@mirkolancerotto.it",
+  "email": "iam@mirkolancerotto.it",
   "social": {
-    "instagram": "https://instagram.com/mirkolancerotto",
-    "tiktok": "https://tiktok.com/@mirkolancerotto",
-    "youtube": "https://youtube.com/@mirkolancerotto"
+    "instagram": "https://www.instagram.com/mirko.lancerotto/",
+    "tiktok": "https://www.tiktok.com/@mirkolancerotto",
+    "youtube": "https://www.youtube.com/@mirkolancerotto",
+    "spotify": "https://open.spotify.com/artist/6zXwY7pla4R7M1GsJbW1QE"
   },
   "analytics": {
     "googleAnalyticsId": "G-ARTIST0001",
     "enabled": false
   },
+  "contactForm": {
+    "enabled": true,
+    "contactApiUrl": "https://contact-service.mirkolancerotto.workers.dev/api/public/contact",
+    "contactSiteId": "mirko-lancerotto",
+    "turnstileSiteKey": "0x4AAAAAAD2hfjYa0_bHpU73"
+  },
+  "commissions": {
+    "pricePerSquareCm": 0.33,
+    "minWidthCm": 30,
+    "minHeightCm": 40,
+    "maxWidthCm": 80,
+    "maxHeightCm": 100
+  },
   "mailchimp": {
     "enabled": true,
     "formActionUrl": "https://example.list-manage.com/subscribe/post?u=artist&id=website-newsletter",
-    "audienceId": "website-newsletter",
+    "audienceId": "fc02005280",
     "tags": [
-      "website-newsletter"
+      "newsletter-sito"
     ]
   },
   "seo": {
     "defaultTitle": {
-      "it": "Mirko Lancerotto | Opere originali",
-      "en": "Mirko Lancerotto | Original Artworks"
+      "it": "Mirko Lancerotto",
+      "en": "Mirko Lancerotto"
     },
     "defaultDescription": {
-      "it": "Dipinti, disegni e opere su commissione di Mirko Lancerotto.",
-      "en": "Original paintings, drawings and commissioned artworks by Mirko Lancerotto."
+      "it": "",
+      "en": ""
     },
+    "favicon": "/assets/images/site-sections/seo-favicon.png",
     "defaultOgImage": "/assets/images/static/og-image.svg"
   }
 }

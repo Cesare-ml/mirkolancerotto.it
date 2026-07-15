@@ -1,25 +1,112 @@
 {
   "home": {
     "heroArtworkId": 1,
+    "manifestoImage": "/assets/images/static/home-manifesto.svg",
+    "commissionsImage": "/assets/images/site-sections/home-commissions.jpg",
     "featuredArtworkIds": [
-      1,
-      2,
-      3
+      1
     ],
     "featuredDrawingIds": [
-      9,
-      10
+      16
     ],
     "showCommissions": true,
     "showNewsletter": true
   },
   "about": {
-    "heroImage": "/assets/images/static/about-hero.svg"
+    "heroImage": "/assets/images/site-sections/about-hero.png",
+    "researchImage": "/assets/images/site-sections/about-research.jpg",
+    "quoteImage": "/assets/images/site-sections/about-quote.jpg",
+    "beyondPaintingImage": "/assets/images/site-sections/about-beyond-painting.png",
+    "presenceImage": "/assets/images/site-sections/about-presence.jpg",
+    "searchImage": "/assets/images/site-sections/about-search.jpg",
+    "ctaImage": "/assets/images/site-sections/about-cta.png"
   },
   "commissions": {
-    "heroImage": "/assets/images/static/commissions-hero.svg"
+    "heroImage": "/assets/images/site-sections/commissions-hero.jpg",
+    "steps": [
+      {
+        "image": "/assets/images/static/commissions-step-dialogue-placeholder.svg",
+        "imageAlt": {
+          "it": "Placeholder dialogo iniziale commissione",
+          "en": "Initial commission dialogue placeholder"
+        }
+      },
+      {
+        "image": "/assets/images/static/commissions-step-sketch-placeholder.svg",
+        "imageAlt": {
+          "it": "Placeholder bozzetto commissione",
+          "en": "Commission sketch placeholder"
+        }
+      },
+      {
+        "image": "/assets/images/static/commissions-step-painting-placeholder.svg",
+        "imageAlt": {
+          "it": "Placeholder fase di pittura commissione",
+          "en": "Commission painting phase placeholder"
+        }
+      },
+      {
+        "image": "/assets/images/static/commissions-step-shipping-placeholder.svg",
+        "imageAlt": {
+          "it": "Placeholder saldo e spedizione commissione",
+          "en": "Commission payment and shipping placeholder"
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "author": "Arianna",
+        "context": {
+          "it": "Collezionista privata",
+          "en": "Private collector"
+        },
+        "quote": {
+          "it": "Colori intensi, armonia e profondità che lasciano spazio all’immaginazione.",
+          "en": "Intense colors, harmony and depth that leave room for imagination."
+        },
+        "image": "/assets/images/static/commissions-testimonial-arianna-placeholder.svg",
+        "imageAlt": {
+          "it": "Placeholder ritratto Arianna",
+          "en": "Arianna portrait placeholder"
+        }
+      },
+      {
+        "author": "Matteo",
+        "context": {
+          "it": "Collezionista e committente",
+          "en": "Collector and commissioner"
+        },
+        "quote": {
+          "it": "Un linguaggio capace di comunicare qualcosa di personale e insieme universale.",
+          "en": "A language capable of communicating something personal and, at the same time, universal."
+        },
+        "image": "/assets/images/static/commissions-testimonial-matteo-placeholder.svg",
+        "imageAlt": {
+          "it": "Placeholder ritratto Matteo",
+          "en": "Matteo portrait placeholder"
+        }
+      },
+      {
+        "author": "Elena",
+        "context": {
+          "it": "Abitazione privata",
+          "en": "Private home"
+        },
+        "quote": {
+          "it": "La sensazione che l’opera raccolga non solo un soggetto, ma anche tutto ciò che lo circonda.",
+          "en": "The sense that the artwork gathers not only a subject, but also everything that surrounds it."
+        },
+        "image": "/assets/images/static/commissions-testimonial-elena-placeholder.svg",
+        "imageAlt": {
+          "it": "Placeholder ritratto Elena",
+          "en": "Elena portrait placeholder"
+        }
+      }
+    ],
+    "featuredArtworkIds": []
   },
   "contacts": {
+    "heroImage": "/assets/images/site-sections/contacts-hero.png",
     "showNewsletter": true
   }
 }
