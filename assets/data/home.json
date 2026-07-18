@@ -1,9 +1,11 @@
 {
   "heroArtworkId": 1,
-  "manifestoImage": "/assets/images/static/home-manifesto.svg",
+  "manifestoImage": "/assets/images/site-sections/home-manifesto.jpg",
   "commissionsImage": "/assets/images/site-sections/home-commissions.jpg",
   "featuredArtworkIds": [
-    1
+    101,
+    98,
+    90
   ],
   "featuredDrawingIds": [
     16

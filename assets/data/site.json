@@ -1,5 +1,6 @@
 {
   "artistName": "Mirko Lancerotto",
+  "headerLogo": "/assets/images/site-sections/header-logo.png",
   "defaultLanguage": "it",
   "domain": "https://mirkolancerotto.it",
   "claim": {
@@ -23,6 +24,10 @@
     "contactSiteId": "mirko-lancerotto",
     "turnstileSiteKey": "0x4AAAAAAD2hfjYa0_bHpU73"
   },
+  "auctions": {
+    "enabled": true,
+    "publicApiBaseUrl": "https://auction-service.mirkolancerotto.workers.dev/api/public"
+  },
   "commissions": {
     "pricePerSquareCm": 0.33,
     "minWidthCm": 30,
@@ -30,13 +35,17 @@
     "maxWidthCm": 80,
     "maxHeightCm": 100
   },
-  "mailchimp": {
-    "enabled": true,
-    "formActionUrl": "https://example.list-manage.com/subscribe/post?u=artist&id=website-newsletter",
-    "audienceId": "fc02005280",
-    "tags": [
-      "newsletter-sito"
-    ]
+  "newsletterEnabled": true,
+  "newsletterSubscribeApiUrl": "https://contact-service.mirkolancerotto.workers.dev/api/newsletter/subscribe",
+  "privacyUrl": "",
+  "legal": {
+    "controllerName": "Mirko Lancerotto",
+    "controllerAddress": "",
+    "taxId": "",
+    "contactEmail": "iam@mirkolancerotto.it",
+    "lastUpdated": "2026-07-18",
+    "contactRetentionMonths": 24,
+    "analyticsRetentionMonths": 14
   },
   "seo": {
     "defaultTitle": {

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/core/services/browser-context.service.ts"],
+  "sourcesContent": ["import { DOCUMENT, isPlatformBrowser } from '@angular/common';\nimport { Inject, Injectable, PLATFORM_ID } from '@angular/core';\n\n@Injectable({\n  providedIn: 'root'\n})\nexport class BrowserContextService {\n  constructor(\n    @Inject(DOCUMENT) private readonly document: Document,\n    @Inject(PLATFORM_ID) private readonly platformId: object\n  ) {}\n\n  isBrowser(): boolean {\n    return isPlatformBrowser(this.platformId);\n  }\n\n  getCurrentUrl(): string {\n    if (!this.isBrowser()) {\n      return '';\n    }\n\n    return this.document.defaultView?.location.href ?? '';\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;AAMM,IAAO,wBAAP,MAAO,uBAAqB;EAEK;EACG;EAFxC,YACqC,UACG,YAAkB;AADrB,SAAA,WAAA;AACG,SAAA,aAAA;EACrC;EAEH,YAAS;AACP,WAAO,kBAAkB,KAAK,UAAU;EAC1C;EAEA,gBAAa;AACX,QAAI,CAAC,KAAK,UAAS,GAAI;AACrB,aAAO;IACT;AAEA,WAAO,KAAK,SAAS,aAAa,SAAS,QAAQ;EACrD;;qCAhBW,wBAAqB,mBAEtB,QAAQ,GAAA,mBACR,WAAW,CAAA;EAAA;4EAHV,wBAAqB,SAArB,uBAAqB,WAAA,YAFpB,OAAM,CAAA;;;sEAEP,uBAAqB,CAAA;UAHjC;WAAW;MACV,YAAY;KACb;;UAGI;WAAO,QAAQ;;UACf;WAAO,WAAW;;;",
+  "names": []
+}

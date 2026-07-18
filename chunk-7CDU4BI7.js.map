@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sito-artista/src/app/services/auction-public.service.ts"],
+  "sourcesContent": ["import { HttpClient } from '@angular/common/http';\nimport { Injectable } from '@angular/core';\nimport { Observable } from 'rxjs';\nimport { map, shareReplay } from 'rxjs/operators';\nimport { PublicAuction } from '../interfaces/auction.interface';\nimport { generatedDataUrl } from './generated-data-url';\n\n@Injectable({\n  providedIn: 'root'\n})\nexport class AuctionPublicService {\n  private readonly auctions$: Observable<PublicAuction[]>;\n\n  constructor(private readonly http: HttpClient) {\n    this.auctions$ = this.http\n      .get<PublicAuction[]>(generatedDataUrl('auctions.json'))\n      .pipe(shareReplay(1));\n  }\n\n  getAuctions(): Observable<PublicAuction[]> {\n    return this.auctions$;\n  }\n\n  getAuctionBySlug(slug: string): Observable<PublicAuction | undefined> {\n    return this.auctions$.pipe(\n      map((auctions) => auctions.find((auction) => auction.slug === slug))\n    );\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;AAUM,IAAO,uBAAP,MAAO,sBAAoB;EAGF;EAFZ;EAEjB,YAA6B,MAAgB;AAAhB,SAAA,OAAA;AAC3B,SAAK,YAAY,KAAK,KACnB,IAAqB,iBAAiB,eAAe,CAAC,EACtD,KAAK,YAAY,CAAC,CAAC;EACxB;EAEA,cAAW;AACT,WAAO,KAAK;EACd;EAEA,iBAAiB,MAAY;AAC3B,WAAO,KAAK,UAAU,KACpB,IAAI,CAAC,aAAa,SAAS,KAAK,CAAC,YAAY,QAAQ,SAAS,IAAI,CAAC,CAAC;EAExE;;qCAjBW,uBAAoB,mBAAA,UAAA,CAAA;EAAA;4EAApB,uBAAoB,SAApB,sBAAoB,WAAA,YAFnB,OAAM,CAAA;;;sEAEP,sBAAoB,CAAA;UAHhC;WAAW;MACV,YAAY;KACb;;;",
+  "names": []
+}

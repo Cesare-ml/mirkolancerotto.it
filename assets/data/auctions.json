@@ -1,0 +1,309 @@
+[
+  {
+    "id": 2,
+    "artworkId": 90,
+    "slug": "il-ritorno-del-cristo",
+    "publicTitle": "Il ritorno del Cristo",
+    "publicStatus": "live",
+    "status": "OPEN",
+    "currency": "EUR",
+    "startingBidAmount": 300,
+    "minimumIncrementAmount": 50,
+    "reservePriceEnabled": true,
+    "previewOpeningAt": "2026-07-17T16:18:00.000Z",
+    "openingAt": "2026-07-17T16:30:00.000Z",
+    "closingAt": "2026-07-20T16:30:00.000Z",
+    "showClosedPublicly": true,
+    "isFeatured": false,
+    "publicPaths": {
+      "it": "/it/aste/il-ritorno-del-cristo",
+      "en": "/en/auctions/il-ritorno-del-cristo"
+    },
+    "artwork": {
+      "id": 90,
+      "slug": "il-ritorno-del-cristo",
+      "status": "available",
+      "title": {
+        "it": "Il ritorno del Cristo",
+        "en": "The Return of Christ"
+      },
+      "subtitle": {
+        "it": "",
+        "en": ""
+      },
+      "year": 2026,
+      "technique": {
+        "it": "Tecnica mista e olio",
+        "en": "Mixed media and oil"
+      },
+      "support": {
+        "it": "Tela",
+        "en": "Canvas"
+      },
+      "dimensions": {
+        "widthCm": 195,
+        "heightCm": 120,
+        "depthCm": null
+      },
+      "images": {
+        "main": {
+          "alt": {
+            "it": "Il ritorno del Cristo di Mirko Lancerotto",
+            "en": "The Return of Christ by Mirko Lancerotto"
+          },
+          "sources": {
+            "thumbnail": "/assets/images/artworks/90/main-thumbnail.jpg",
+            "small": "/assets/images/artworks/90/main-small.jpg",
+            "medium": "/assets/images/artworks/90/main-medium.jpg",
+            "large": "/assets/images/artworks/90/main-large.jpg",
+            "original": "/assets/images/artworks/90/main-original.png"
+          }
+        },
+        "gallery": [
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-1-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-1-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-1-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-1-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-1-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-2-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-2-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-2-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-2-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-2-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-3-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-3-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-3-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-3-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-3-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-4-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-4-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-4-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-4-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-4-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-5-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-5-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-5-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-5-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-5-original.jpg"
+            }
+          },
+          {
+            "type": "studio",
+            "description": {
+              "it": "Appena finito",
+              "en": "Appena finito"
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-6-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-6-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-6-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-6-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-6-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-7-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-7-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-7-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-7-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-7-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-8-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-8-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-8-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-8-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-8-original.png"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-9-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-9-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-9-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-9-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-9-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-10-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-10-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-10-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-10-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-10-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-11-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-11-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-11-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-11-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-11-original.jpg"
+            }
+          },
+          {
+            "type": "detail",
+            "description": {
+              "it": "",
+              "en": ""
+            },
+            "sources": {
+              "thumbnail": "/assets/images/artworks/90/gallery-12-thumbnail.jpg",
+              "small": "/assets/images/artworks/90/gallery-12-small.jpg",
+              "medium": "/assets/images/artworks/90/gallery-12-medium.jpg",
+              "large": "/assets/images/artworks/90/gallery-12-large.jpg",
+              "original": "/assets/images/artworks/90/gallery-12-original.jpg"
+            }
+          }
+        ]
+      },
+      "video": null,
+      "publicPaths": {
+        "it": "/it/opere/il-ritorno-del-cristo",
+        "en": "/en/artworks/il-ritorno-del-cristo"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "artworkId": 98,
+    "slug": "la-mano-di-dio",
+    "publicTitle": "Banchetto di frutta",
+    "publicStatus": "upcoming",
+    "status": "SCHEDULED",
+    "currency": "EUR",
+    "startingBidAmount": 700,
+    "minimumIncrementAmount": 50,
+    "reservePriceEnabled": true,
+    "previewOpeningAt": "2026-07-17T14:00:00.000Z",
+    "openingAt": "2026-07-17T14:00:00.000Z",
+    "closingAt": "2026-07-17T18:30:00.000Z",
+    "showClosedPublicly": true,
+    "isFeatured": false,
+    "publicPaths": {
+      "it": "/it/aste/la-mano-di-dio",
+      "en": "/en/auctions/la-mano-di-dio"
+    },
+    "artwork": {
+      "id": 98,
+      "slug": "banchetto-di-frutta",
+      "status": "available",
+      "title": {
+        "it": "Banchetto di frutta",
+        "en": "Fruit Banquet"
+      },
+      "subtitle": {
+        "it": "",
+        "en": ""
+      },
+      "year": 2026,
+      "technique": {
+        "it": "Tecnica mista e olio",
+        "en": "Mixed media and oil"
+      },
+      "support": {
+        "it": "Il dipinto e' stato fatto su una vecchia opera di un altro artista. L'opera era stata appesa nel saloto dei miei nonni per piu di 20 anni.",
+        "en": "Canvas"
+      },
+      "dimensions": {
+        "widthCm": 120,
+        "heightCm": 60,
+        "depthCm": 2
+      },
+      "images": {
+        "main": {
+          "alt": {
+            "it": "Banchetto di frutta di Mirko Lancerotto",
+            "en": "Fruit Banquet by Mirko Lancerotto"
+          },
+          "sources": {
+            "thumbnail": "/assets/images/artworks/98/main-thumbnail.jpg",
+            "small": "/assets/images/artworks/98/main-small.jpg",
+            "medium": "/assets/images/artworks/98/main-medium.jpg",
+            "large": "/assets/images/artworks/98/main-large.jpg",
+            "original": "/assets/images/artworks/98/main-original.jpg"
+          }
+        },
+        "gallery": []
+      },
+      "video": null,
+      "publicPaths": {
+        "it": "/it/opere/banchetto-di-frutta",
+        "en": "/en/artworks/banchetto-di-frutta"
+      }
+    }
+  }
+]

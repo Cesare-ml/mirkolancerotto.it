@@ -6,7 +6,7 @@
     "status": "available",
     "title": {
       "it": "Mio nonno mi rivede dopo la morte di mia zia",
-      "en": "Mio nonno mi rivede dopo la morte di mia zia"
+      "en": "My Grandfather Sees Me Again After My Aunt's Death"
     },
     "subtitle": {
       "it": "",
@@ -15,11 +15,11 @@
     "year": 2020,
     "technique": {
       "it": "Acquerello e matita",
-      "en": "Acquerello e matita"
+      "en": "Watercolor and pencil"
     },
     "support": {
       "it": "Carta",
-      "en": "Carta"
+      "en": "Paper"
     },
     "dimensions": {
       "widthCm": 24,
@@ -32,28 +32,28 @@
       "visible": true
     },
     "texts": {
-      "visibleMode": "none",
+      "visibleMode": "poetic",
       "description": {
         "it": "",
         "en": ""
       },
       "poetic": {
-        "it": "",
-        "en": ""
+        "it": "Il volto di mio nonno è vicino e irraggiungibile, acceso da un rosso che non appartiene né alla carne né al tramonto. Mi guarda come chi torna da molto lontano e, nel riconoscermi, incontra anche l’assenza di chi non può più essere nominata senza dolore. Dietro di lui il paesaggio si divide: da una parte il verde fitto della memoria, dall’altra una parete chiara, quasi una cascata, che separa i mondi. In quello sguardo non c’è soltanto lutto, ma stupore: la vita che continua appare improvvisamente estranea e preziosa. Ci rivediamo così, attraverso la morte di un’altra persona, e il sangue familiare diventa una fragile forma di sopravvivenza.",
+        "en": "My grandfather’s face is near and unreachable, lit by a red that belongs neither to flesh nor sunset. He looks at me like someone returning from very far away and, in recognizing me, also meets the absence of the one who can no longer be named without pain. Behind him the landscape divides: on one side the dense green of memory, on the other a pale wall, almost a waterfall, separating worlds. In that gaze there is not only grief, but astonishment: the life that continues suddenly appears foreign and precious. We meet again in this way, through the death of another person, and family blood becomes a fragile form of survival."
       }
     },
     "images": {
       "main": {
         "alt": {
           "it": "Mio nonno mi rivede dopo la morte di mia zia di Mirko Lancerotto",
-          "en": "Mio nonno mi rivede dopo la morte di mia zia by Mirko Lancerotto"
+          "en": "My Grandfather Sees Me Again After My Aunt's Death by Mirko Lancerotto"
         },
         "sources": {
-          "original": "/assets/images/artworks/16/main-original.jpg",
           "thumbnail": "/assets/images/artworks/16/main-thumbnail.jpg",
           "small": "/assets/images/artworks/16/main-small.jpg",
           "medium": "/assets/images/artworks/16/main-medium.jpg",
-          "large": "/assets/images/artworks/16/main-large.jpg"
+          "large": "/assets/images/artworks/16/main-large.jpg",
+          "original": "/assets/images/artworks/16/main-original.jpg"
         }
       },
       "gallery": []
@@ -63,12 +63,13 @@
     "seo": {
       "title": {
         "it": "Mio nonno mi rivede dopo la morte di mia zia | Mirko Lancerotto",
-        "en": "Mio nonno mi rivede dopo la morte di mia zia | Mirko Lancerotto"
+        "en": "My Grandfather Sees Me Again After My Aunt's Death | Mirko Lancerotto"
       },
       "description": {
         "it": "Opera disponibile di Mirko Lancerotto, Acquerello e matita, 2020.",
-        "en": "Available artwork by Mirko Lancerotto, Acquerello e matita, 2020."
+        "en": "Available artwork by Mirko Lancerotto, Watercolor and pencil, 2020."
       }
-    }
+    },
+    "auction": null
   }
 ]

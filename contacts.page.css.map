@@ -1,7 +1,7 @@
 {
   "version": 3,
   "sources": ["sito-artista/src/app/pages/contacts/contacts.page.sass"],
-  "sourcesContent": [":host\n  display: block\n"],
-  "mappings": ";AAAA;AACE,WAAA;;",
+  "sourcesContent": [":host\n  display: block\n\n.contacts-stage\n  position: relative\n\n  &::before\n    content: \"\"\n    position: absolute\n    z-index: -1\n    top: 0\n    right: -10rem\n    width: 28rem\n    height: 28rem\n    border-radius: 50%\n    background: radial-gradient(circle, rgba(159, 116, 82, 0.09), transparent 70%)\n    pointer-events: none\n\n.contacts-stage__line\n  width: 100%\n  height: 1px\n  margin-bottom: 2rem\n  background: rgba(32, 27, 22, 0.14)\n\n.contacts-studio-card\n  box-shadow: var(--site-shadow-soft)\n  transition: transform 500ms cubic-bezier(0.22, 1, 0.36, 1), box-shadow 500ms ease\n\n  &:hover\n    transform: translateY(-0.3rem)\n    box-shadow: 0 28px 70px rgba(48, 37, 28, 0.11)\n\n.contacts-newsletter\n  overflow: hidden\n\n@media (prefers-reduced-motion: reduce)\n  .contacts-studio-card\n    transition: none\n"],
+  "mappings": ";AAAA;AACE,WAAA;;AAEF,CAAA;AACE,YAAA;;AAEA,CAHF,cAGE;AACE,WAAA;AACA,YAAA;AACA,WAAA;AACA,OAAA;AACA,SAAA;AACA,SAAA;AACA,UAAA;AACA,iBAAA;AACA;IAAA;MAAA,MAAA;MAAA,KAAA,GAAA,EAAA,GAAA,EAAA,EAAA,EAAA,KAAA;MAAA,YAAA;AACA,kBAAA;;AAEJ,CAAA;AACE,SAAA;AACA,UAAA;AACA,iBAAA;AACA,cAAA,KAAA,EAAA,EAAA,EAAA,EAAA,EAAA,EAAA;;AAEF,CAAA;AACE,cAAA,IAAA;AACA,cAAA,UAAA,MAAA,aAAA,IAAA,EAAA,CAAA,EAAA,IAAA,EAAA,EAAA,EAAA,WAAA,MAAA;;AAEA,CAJF,oBAIE;AACE,aAAA,WAAA;AACA,cAAA,EAAA,KAAA,KAAA,KAAA,EAAA,EAAA,EAAA,EAAA,EAAA,EAAA;;AAEJ,CAAA;AACE,YAAA;;AAEF,OAAA,CAAA,sBAAA,EAAA;AACE,GAZF;AAaI,gBAAA;;;",
   "names": []
 }
